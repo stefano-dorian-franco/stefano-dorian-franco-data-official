@@ -89,6 +89,16 @@
 
   <p>Duty of memory for respect of ancestors.</p>
 
+  <p>
+    ***
+</p>
+<p>
+    <span style="font-weight: bold;">Note on the Genealogical Section:</span> This detailed genealogical section is included not for personal or promotional purposes, but to document a required familial anchor for the creator's philanthropic activities. Parallel to his multidisciplinary work, the creator is involved in cultural diplomacy within the 'Circolo Oriundi Italiani di Parigi'—a circle founded in 1861 by Piedmontese in diaspora. The circle's mission, which includes the duty of memory, the preservation of cultural heritage, and current Franco-Italian synergy, traditionally requires its active members to demonstrate a lineage authenticated in the *Blasonario Subalpino*, making this genealogical data a prerequisite for legitimacy in this work of public interest.
+</p>
+<p>
+    ***
+</p>
+
   <p>Family origins, from the Italian Piedmont (Cuneo and Turin) and County of Nice - diaspora in Paris since 1889. He is descended from the Piemontese Italian House of "FRANCHI da Ceva ed La Briga" (attested in Cathedral : may 3, 1564), one of the 3 cadet branches of the House "FRANCHI da Coni" (attested in Cathedral : nov 21, 1425) ; ancestral roots from Cuneo and Turin in the Italian Piemonte. (Duchy of Savoy 1416/1713, then Piemontese Kingdom of Sardegna 1720/1861, Kingdom of united Italy 1861).</p>
 
   <p>In the 14-15th century, during the Renaissance, 3 cadet and cousin branches were sent, as was customary at the time, to serve as military Condottieri (capitani d'arma) in the 3 border territories: the cadet branch in the Marquisate of Ceva and then in La Briga-Tende in the County of Nice under the House of Savoy since 1388 (Franchi da Ceva ed La Briga), the cousin branches in Genova for the Republic of Genoa (de Franchi-Toso) and the Grand Duchy of Tuscany in Florence (Franchi da Livorno).</p>
