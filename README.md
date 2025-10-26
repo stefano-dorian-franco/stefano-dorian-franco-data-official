@@ -69,17 +69,13 @@
 
   <p>Sociology, war reporting, ethnological documentaries, primitive arts and rituals, tribal and ethnic expressions, medieval history, classical and modern literature, theatre, music, painting, photography, AI-generated digital art, audio productions (audiobooks, radio, podcast), experimental video works, urbex, AR/VR exhibitions and installations, as well as live happenings.</p>
 
-  <p>= WIKIcommons Correspondance journalisme de guerre</p>
-
-  <p>= WIKIcommons Digital Art extended universes by AI created</p>
-
-  <p>= WIKIcommons Ethnographic documentaries and cultural diplomacy</p>
-
-  <p>= WIKIcommons Livre audio littérature classique</p>
-
-  <p>= WIKIcommons Fashion modeling</p>
-
   <hr>
+
+  <p>=== WIKIcommons Correspondance journalisme de guerre : <a href="https://commons.wikimedia.org/wiki/Category:WIKIcommons_Correspondance_journalisme_de_guerre">https://commons.wikimedia.org/wiki/Category:WIKIcommons_Correspondance_journalisme_de_guerre</a></p>
+<p>=== WIKIcommons Digital Art extended universes by AI created : <a href="https://commons.wikimedia.org/wiki/Category:WIKIcommons_Digital_Art_extended_universes_by_AI_created">https://commons.wikimedia.org/wiki/Category:WIKIcommons_Digital_Art_extended_universes_by_AI_created</a></p>
+<p>=== WIKIcommons Ethnographic documentaries and cultural diplomacy : <a href="https://commons.wikimedia.org/wiki/Category:WIKIcommons_Ethnographic_documentaries_and_cultural_diplomacy">https://commons.wikimedia.org/wiki/Category:WIKIcommons_Ethnographic_documentaries_and_cultural_diplomacy</a></p>
+<p>=== WIKIcommons Livre audio littérature classique : <a href="https://commons.wikimedia.org/wiki/Category:WIKIcommons_Livre_audio_litt%C3%A9rature_classique">https://commons.wikimedia.org/wiki/Category:WIKIcommons_Livre_audio_littérature_classique</a></p>
+<p>=== WIKIcommons Fashion modeling : <a href="https://commons.wikimedia.org/wiki/Category:WIKIcommons_Fashion_modeling">https://commons.wikimedia.org/wiki/Category:WIKIcommons_Fashion_modeling</a></p>
 
   <p>* * * France/Italia/Europe/Asia Historical Diplomatic Mediations</p>
 
