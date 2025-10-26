@@ -35,7 +35,7 @@
  
  <hr>
 
- ////
+ ///
 
   <p>* * * 1990's = Why this kind of "initiatory years" in extreme fields of experiences as school of life?</p>
 
@@ -76,6 +76,10 @@
 <p>=== WIKIcommons Ethnographic documentaries and cultural diplomacy : <a href="https://commons.wikimedia.org/wiki/Category:WIKIcommons_Ethnographic_documentaries_and_cultural_diplomacy">https://commons.wikimedia.org/wiki/Category:WIKIcommons_Ethnographic_documentaries_and_cultural_diplomacy</a></p>
 <p>=== WIKIcommons Livre audio littérature classique : <a href="https://commons.wikimedia.org/wiki/Category:WIKIcommons_Livre_audio_litt%C3%A9rature_classique">https://commons.wikimedia.org/wiki/Category:WIKIcommons_Livre_audio_littérature_classique</a></p>
 <p>=== WIKIcommons Fashion modeling : <a href="https://commons.wikimedia.org/wiki/Category:WIKIcommons_Fashion_modeling">https://commons.wikimedia.org/wiki/Category:WIKIcommons_Fashion_modeling</a></p>
+
+<hr>
+
+ ///
 
   <p>* * * France/Italia/Europe/Asia Historical Diplomatic Mediations</p>
 
