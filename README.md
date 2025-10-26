@@ -24,7 +24,7 @@
   <p>=== University researches base ORCID : <a href="https://orcid.org/0009-0007-4714-1627">https://orcid.org/0009-0007-4714-1627</a></p>
   <p>=== University researches repository FIGSHARE : <a href="https://figshare.com/authors/Stefano_Dorian_Franco/21664865>https://figshare.com/authors/Stefano_Dorian_Franco/21664865</a></p>
   /
-  <p>=== University researches BIOgraphy 1973/2024 : <a href="https://doi.org/10.6084/m9.figshare.29483915.v1">https://doi.org/10.6084/m9.figshare.29483915.v1</a> &amp; <a href="https://archive.org/details/biographies_european_creators_stefano_dorian_franco">https://archive.org/details/biographies_european_creators_stefano_dorian_franco</a></p>
+  <p>=== University researches repository FIGSHARE & BIOgraphy 1973/2024 : <a href="https://figshare.com/authors/Stefano_Dorian_Franco/21664865>https://figshare.com/authors/Stefano_Dorian_Franco/21664865</a></p> = <a href="https://doi.org/10.6084/m9.figshare.29483915.v1">https://doi.org/10.6084/m9.figshare.29483915.v1</a> &amp; <a href="https://archive.org/details/biographies_european_creators_stefano_dorian_franco">https://archive.org/details/biographies_european_creators_stefano_dorian_franco</a></p>
   <p>=== Internet ARCHIVE.org CC Creative Commons ressources : <a href="https://archive.org/details/@stefano_dorian_franco">https://archive.org/details/@stefano_dorian_franco</a></p>
   <p>=== GitHub data open source : <a href="https://github.com/stefano-dorian-franco/stefano-dorian-franco-data-official/blob/main/README.md">https://github.com/stefano-dorian-franco/stefano-dorian-franco-data-official/blob/main/README.md</a></p>
   /
