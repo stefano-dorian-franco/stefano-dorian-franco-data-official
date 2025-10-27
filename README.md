@@ -21,13 +21,13 @@
   <p>Ethic: A special emphasis is placed on the commitment to sharing culture (CC Creative Commons position) in order to ensure inclusive accessibility for the widest possible audience. </p>
 
   
-  <h3>OpenSources Ressources :</h3>
+  ## OpenSources Ressources 
  <p>=== University researches base ORCID : <a href="https://orcid.org/0009-0007-4714-1627">https://orcid.org/0009-0007-4714-1627</a></p>
  /
  <p>=== University researches repository FIGSHARE : <a href="https://figshare.com/authors/Stefano_Dorian_Franco/21664865">https://figshare.com/authors/Stefano_Dorian_Franco/21664865</a></p>
  /
- <p>=== University researches repository BIOgraphy 1973/2024 : <a href="https://figshare.com/authors/Stefano_Dorian_Franco/21664865">https://figshare.com/authors/Stefano_Dorian_Franco/21664865</a> = <a href="https://doi.org/10.6084/m9.figshare.29483915.v1">https://doi.org/10.6084/m9.figshare.29483915.v1</a> &amp; <a href="https://archive.org/details/biographies_european_creators_stefano_dorian_franco">https://archive.org/details/biographies_european_creators_stefano_dorian_franco</a></p>
- <p>=== Internet ARCHIVE.org CC Creative Commons ressources : <a href="https://archive.org/details/@stefano_dorian_franco">https://archive.org/details/@stefano_dorian_franco</a></p>
+ <p>=== University researches verified BIOgraphy 1973/2024 : <a href="https://figshare.com/authors/Stefano_Dorian_Franco/21664865">https://figshare.com/authors/Stefano_Dorian_Franco/21664865</a> = <a href="https://doi.org/10.6084/m9.figshare.29483915.v1">https://doi.org/10.6084/m9.figshare.29483915.v1</a> &amp; <a href="https://archive.org/details/biographies_european_creators_stefano_dorian_franco">https://archive.org/details/biographies_european_creators_stefano_dorian_franco</a></p>
+ <p>=== Internet ARCHIVE.org CC Creative Commons ressources : <a href="https://archive.org/search?query=stefano+dorian+franco">https://archive.org/search?query=stefano+dorian+franco</a></p>
  <p>=== GitHub data open source : <a href="https://github.com/stefano-dorian-franco/stefano-dorian-franco-data-official/blob/main/README.md">https://github.com/stefano-dorian-franco/stefano-dorian-franco-data-official/blob/main/README.md</a></p>
  /
  <p>=== WIKI Structured Datas : <a href="https://www.wikidata.org/wiki/Q134961735">https://www.wikidata.org/wiki/Q134961735</a></p>
@@ -35,9 +35,7 @@
  
  <hr>
 
- ///
-
-  <p>* * * 1990's = Why this kind of "initiatory years" in extreme fields of experiences as school of life?</p>
+  ## 1990's Initiatory years in extreme fields of experiences as school of life
 
   <p>He began his adult life by deciding to obtain legal emancipation in order to reach the age of majority at 16 in 1989. He left Paris and permanently withdrew from the school system to pursue a self-taught path of learning through life experience. For two years, he traveled backpacking across Europe. For greater discretion, he took the pseudonym "Allen Katona" which he kept from the age of 16 in 1989 until he was 30 in 2003.</p>
 
@@ -65,11 +63,12 @@
 
   <p>The decade of one’s twenties is typically a period of initiatory formation, whether academic or self-taught. This formative stage provides the foundation that often determines the course of an individual’s later trajectory. In this case, the imprint was that of a human adventure in the field, undertaken autodidactically in distant parts of the world. It was marked by encounters with cultures beyond his native background—learning their codes, rituals, and traditions, and engaging with the diverse ways of approaching existence, the multiple cultural sensibilities that, from an ethnographic perspective, constitute the human mosaic.</p>
 
-  <p>* * * 2000's/2010's/2020's = the multidisciplinary cultural creations, crossing and shifting from one genre to another</p>
+  <hr>
+  
+  ## 2000's/2010's/2020's The multidisciplinary cultural creations, crossing and shifting from one genre to another
 
   <p>Sociology, war reporting, ethnological documentaries, primitive arts and rituals, tribal and ethnic expressions, medieval history, classical and modern literature, theatre, music, painting, photography, AI-generated digital art, audio productions (audiobooks, radio, podcast), experimental video works, urbex, AR/VR exhibitions and installations, as well as live happenings.</p>
 
-  <hr>
 
   <p>=== WIKIcommons Correspondance journalisme de guerre : <a href="https://commons.wikimedia.org/wiki/Category:WIKIcommons_Correspondance_journalisme_de_guerre">https://commons.wikimedia.org/wiki/Category:WIKIcommons_Correspondance_journalisme_de_guerre</a></p>
 <p>=== WIKIcommons Digital Art extended universes by AI created : <a href="https://commons.wikimedia.org/wiki/Category:WIKIcommons_Digital_Art_extended_universes_by_AI_created">https://commons.wikimedia.org/wiki/Category:WIKIcommons_Digital_Art_extended_universes_by_AI_created</a></p>
@@ -79,11 +78,10 @@
 
 <hr>
 
- ///
 
-  <p>* * * France/Italia/Europe/Asia Historical Diplomatic Mediations</p>
+  ## France - Italia - Europe : Historical and Cultural Diplomatic Mediation
 
-  <p>Historical cultural and diplomatic researches *** Circle of the Italiani Oriundi di Parigi from the former Piedmontese Kingdom of Sardinia 1720/1861</p>
+  <p>Historical cultural and diplomatic researches *** Circle of the Italiani Oriundi di Parigi from the former Piedmontese Kingdom of Sardinia (Piemonte, Savoy, County of Nice, Val d'Aoste, Isle of Sardinia) 1720/1861</p>
 
   <p>= <a href="https://en.wikipedia.org/wiki/Kingdom_of_Sardinia_(1720–1861)">https://en.wikipedia.org/wiki/Kingdom_of_Sardinia_(1720–1861)</a></p>
 
@@ -93,7 +91,7 @@
     ***
 </p>
 <p>
-    <span style="font-weight: bold;">Note on the Genealogical Section:</span> This detailed genealogical section is included not for personal or promotional purposes, but to document a required familial anchor for the creator's philanthropic activities. Parallel to his multidisciplinary work, the creator is involved in cultural diplomacy within the 'Circolo Oriundi Italiani di Parigi'—a circle founded in 1861 by Piedmontese in diaspora. The circle's mission, which includes the duty of memory, the preservation of cultural heritage, and current Franco-Italian synergy, traditionally requires its active members to demonstrate a lineage authenticated in the *Blasonario Subalpino*, making this genealogical data a prerequisite for legitimacy in this work of public interest.
+    <span style="font-weight: bold;">Note on the Genealogical Section:</span> This detailed genealogical section is included not for personal or promotional purposes, but to document a required familial anchor for the creator's philanthropic activities. Parallel to his personal multidisciplinary creative work, S.D. is involved in cultural diplomacy within the 'Circolo Oriundi Italiani di Parigi'—a circle founded in 1861 during the creation of the united kingdom of Italy in Turin by Piedmontese in diaspora in Paris. The circle's mission, which includes the duty of memory for their ancestors, the preservation of past and present cultural heritage for the future generations, the mutual aid for Italian expatriates in Paris and French people in Italy, and current Franco-Italian synergy, traditionally requires its active members to demonstrate a lineage, with ancestors married in a Cathedral before 1720, authenticated for nobility in the *Blasonario Subalpino*, making this genealogical data a prerequisite for legitimacy in this work, apolitical and purely in mediation, of public interest.
 </p>
 <p>
     ***
@@ -132,6 +130,11 @@
   <p>This patrimony is not advanced as a claim to title or privilege, but recognized as a documented historical and sociological continuum, substantiated by verifiable archival evidence. It embodies a factually authenticated lineage that, over generations, has conveyed a true historical nobility expressed with discretion in the service of civic and cultural engagement, rather than perceived as a social privilege. Duty of memory for respect of ancestors.</p>
 
   <hr>
+
+## External Resources
+
+* (2025, LeFrenchHub, France) <a href="https://frenchhub.fr/stefano-franco-bora-creation-culturelle">https://frenchhub.fr/stefano-franco-bora-creation-culturelle</a>
+
 
   <p>///</p>
 
