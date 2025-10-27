@@ -123,7 +123,7 @@
     <li>28 May 1973 - Paris (Franco-Bleivs van Nursberghe)</li>
 </ol>
 
-    Stefano Dorian (baptized in the catholic tradition, on the familial church since 1848 of Saint-Pierre-d'Arene) represents de facto in the 14th generation the direct lineage of this Piedmontese Italian-Nissart clan, Italiani Oriundi in diaspora since 1889 in Paris with the arrival of Onorato Franco-Nicolay de Berre Gilette (Nice, 1845/Paris, 1921) and his wife Rose Louise Barquier de Clausonne (Nice, 1848/Nice, 1906), in continuity and Respect for all the former generations.</p>
+  <p>= Stefano Dorian (baptized in the catholic tradition, on the familial church since 1848 of Saint-Pierre-d'Arene) represents de facto in the 14th generation the direct lineage of this Piemontese Italian-Nissart clan since 3 may 1564, Italiani Oriundi in diaspora since 1889 in Paris with the arrival of Onorato Franco-Nicolay de Berre Gilette (Nice, 1845/Paris, 1921) and his wife Rose Louise Barquier de Clausonne (Nice, 1848/Nice, 1906), in continuity and Respect for all the former generations.</p>
 
   <p>= All baptism and marriage certificates (1564/1910) from all generations are kept in the archives of the Catholic Diocese of Nice, and scanned and freely available on the official website of the open archives of the Alpes-Maritimes Department: <a href="https://archives06.fr/archive/resultats/etatcivil2/n:101?type=etatcivil2">https://archives06.fr/archive/resultats/etatcivil2/n:101?type=etatcivil2</a></p>
 
