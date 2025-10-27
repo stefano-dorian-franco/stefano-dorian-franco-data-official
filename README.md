@@ -136,6 +136,7 @@
   <p>= Official register of the heraldic society "Stemmario italiano" of the coats of arms of the families of the Italian Nobility: "Franchi": <a href="https://www.stemmario.it/stemmi/franchi>https://www.stemmario.it/stemmi/franchi</a></p>
 
   <p>= Official Armorial Stemma Blason - Italian Nobility: "clan Franchi": <a href="https://www.cognomix.it/stemma-famiglia/de+franchi">https://www.cognomix.it/stemma-famiglia/de+franchi</a></p>
+  
 
   <p>= WikiGen "Franchi da La Briga/Franco": <a href="https://fr.geneawiki.com/wiki/Famille_Franchi/Franco">https://fr.geneawiki.com/wiki/Famille_Franchi/Franco</a></p>
 
