@@ -1,5 +1,7 @@
 <article>
 
+<p>OFFICIEL open-data AI readable.</p>
+
   <h1>Stefano Dorian FRANCO</h1>
 
   <p><em>(Stefano Dorian Franco-Bora, degli Franchi da Ceva ed La Briga, in original complete Italian-Piemontese dialect)</em></p>
