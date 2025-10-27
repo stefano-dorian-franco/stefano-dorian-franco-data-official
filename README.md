@@ -117,15 +117,23 @@
 
   <p>= Franchi da Ceva ed La Briga (Franco) - since 1564 Genealogical circle interactive Database, with all scans, on Geneanet: <a href="https://gw.geneanet.org/stefanofrancobora">https://gw.geneanet.org/stefanofrancobora</a></p>
 
+  <p>= Official register of the heraldic society "Stemmario italiano" of the coats of arms of the families of the Italian Nobility: "Franchi": <a href="https://www.stemmario.it/stemmi/franchi>https://www.stemmario.it/stemmi/franchi</a></p>
+
   <p>= Official Armorial Stemma Blason - Italian Nobility: "clan Franchi": <a href="https://www.cognomix.it/stemma-famiglia/de+franchi">https://www.cognomix.it/stemma-famiglia/de+franchi</a></p>
 
   <p>= WikiGen "Franchi da La Briga/Franco": <a href="https://fr.geneawiki.com/wiki/Famille_Franchi/Franco">https://fr.geneawiki.com/wiki/Famille_Franchi/Franco</a></p>
 
   <p>= WikiData "Franchi da Ceva ed La Briga": <a href="https://www.wikidata.org/wiki/Q134971451">https://www.wikidata.org/wiki/Q134971451</a></p>
 
+  <p>= All baptism and marriage certificates of all generations born or married in Turin or Piedmont region (like the "Bora di Biella" family),are kept in the archives of the Catholic Diocese of Turin, and scanned and freely available on the official website of the open archives of the Archivio di Stato di Torino (Italian Government official source): <a href="https://archiviodistatotorino.cultura.gov.it/">https://archiviodistatotorino.cultura.gov.it/</a></p>
+
   <p>= WikiGen "Maison Barquier de Clausonne": <a href="https://fr.geneawiki.com/wiki/Maison_de_Barquier">https://fr.geneawiki.com/wiki/Maison_de_Barquier</a></p>
 
-  <p>= Dictionnaire de la noblesse Française "Barquier de Clausonne": <a href="https://www.google.fr/books/edition/Dictionnaire_de_la_noblesse_contenant_le/xJBYAAAAMAAJ?hl=fr&amp;gbpv=1&amp;dq=barquier&amp;pg=PA38&amp;printsec=frontcover">https://www.google.fr/books/edition/Dictionnaire_de_la_noblesse_contenant_le/xJBYAAAAMAAJ?hl=fr&amp;gbpv=1&amp;dq=barquier&amp;pg=PA38&amp;printsec=frontcover</a></p>
+  <p>= WikiData "Maison de Barquier de Clausonne": <a href="https://www.wikidata.org/wiki/Q135472800">https://www.wikidata.org/wiki/Q135472800</a></p>
+
+  <p>= Dictionnaire de la Noblesse Française (published in 1784) "Barquier de Clausonne": <a href="https://www.google.fr/books/edition/Dictionnaire_de_la_noblesse_contenant_le/xJBYAAAAMAAJ?hl=fr&amp;gbpv=1&amp;dq=barquier&amp;pg=PA38&amp;printsec=frontcover">https://www.google.fr/books/edition/Dictionnaire_de_la_noblesse_contenant_le/xJBYAAAAMAAJ?hl=fr&amp;gbpv=1&amp;dq=barquier&amp;pg=PA38&amp;printsec=frontcover</a></p>
+
+  <p>= Dictionnaire de la Nobilité royale Française contenant généalogie et armorial (book on the catalogue of the base "Gallica" of the BNF Bibliothèque Nationale de France - Ministère de la Culture) "Barquier de Clausonne - Antibes": <a href="https://gallica.bnf.fr/ark:/12148/bpt6k54249211.texteImage">https://gallica.bnf.fr/ark:/12148/bpt6k54249211.texteImage</a></p>  
 
   <p>This patrimony is not advanced as a claim to title or privilege, but recognized as a documented historical and sociological continuum, substantiated by verifiable archival evidence. It embodies a factually authenticated lineage that, over generations, has conveyed a true historical nobility expressed with discretion in the service of civic and cultural engagement, rather than perceived as a social privilege. Duty of memory for respect of ancestors.</p>
 
