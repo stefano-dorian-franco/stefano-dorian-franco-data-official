@@ -105,9 +105,25 @@
 
   <p>Armorial Heraldry in Blasonario SubAlpino of the Piemontese Kingdom of Sardegna: <a href="https://www.blasonariosubalpino.it/Pagina4.html">https://www.blasonariosubalpino.it/Pagina4.html</a></p>
 
-  <p>From the implantation as Condottieri of the House of Savoy based in the Countea de Nissa (County of Nice) - Franchi da Ceva ed La Briga:</p>
+  <p>From the implantation as Condottieri of the House of Savoy based in the Countea de Nissa (County of Nice) - Franchi da Ceva ed La Briga ("Franco", in Nissart dialect):</p>
 
-  <p>1# matrim may 3, 1564 Cathedrale Sainte-Réparate (Franco-Cottalorda di Breil su Roya) - 2# august 12, 1581 Cathedrale Sainte-Réparate (Franco-Barletti d'Aiglun) / Then, after the 1720/1861 Kingdom of Sardegna : passage to modern united Italy created in 1861 with County of Nice/Savoy annexed to France : 10# april 29, 1867 Saint-Pierre d'Arene (Franco-Barquier de Clausonne Faissola) - 11# may 12, 1910 Saint-Pierre d'Arene (Franco-Bora di Biella) / Stefano Dorian, baptized in the trad catholic familial church since 1848 of Saint-Pierre-d'Arene, represents de facto in the 14th generation the direct lineage of this Piedmontese Italian clan, Italiani Oriundi in diaspora since 1889 in Paris, in continuity and Respect for all the former generations.</p>
+  <ol>
+    <li>3 May 1564 - Cathedrale Sainte-Réparate (Franco-Cottalorda de Breil-sur-Roya)</li>
+    <li>12 August 1581 - Cathedrale Sainte-Réparate (Franco-Barletti d'Aiglun)</li>
+    <li>5 November 1612 - Parrocchia Nissa Falicon (Franco-Martini di Bosco Marengo)</li>
+    <li>20 February 1647 - Parrocchia Nissa Falicon (Franco-Plesente di Roquesteron)</li>
+    <li>3 August 1687 - Cathedrale Sainte-Réparate (Franco-d'Amirato Barralis de Luceram)</li>
+    <li>26 February 1730 - Cathedrale Sainte-Réparate (Franco-Verany Saissi de Chateauneuf)</li>
+    <li>30 January 1761 - Cathedrale Sainte-Réparate (Franco-Teisseire de Gioanni)</li>
+    <li>22 January 1790 - Cathedrale Sainte-Réparate (Franco-Mars di Marzio Richelmi de Bus)</li>
+    <li>7 May 1837 - Parrocchia San Bartolomeo (Franco-Nicolay de Berre Gilette)</li>
+    <li>29 April 1867 - Parrocchia Saint Pierre d'Arene (Franco-Barquier de Clausonne)</li>
+    <li>12 May 1910 - Parrocchia Saint Pierre d'Arene (Franco-Bora di Biella)</li>
+    <li>11 July 1939 - Paris (Franco-Guillebot d'Anzeme)</li>
+    <li>28 May 1973 - Paris (Franco-Bleivs van Nursberghe)</li>
+</ol>
+
+    Stefano Dorian (baptized in the catholic tradition, on the familial church since 1848 of Saint-Pierre-d'Arene) represents de facto in the 14th generation the direct lineage of this Piedmontese Italian-Nissart clan, Italiani Oriundi in diaspora since 1889 in Paris with the arrival of Onorato Franco-Nicolay de Berre Gilette (Nice, 1845/Paris, 1921) and his wife Rose Louise Barquier de Clausonne (Nice, 1848/Nice, 1906), in continuity and Respect for all the former generations.</p>
 
   <p>= All baptism and marriage certificates (1564/1910) from all generations are kept in the archives of the Catholic Diocese of Nice, and scanned and freely available on the official website of the open archives of the Alpes-Maritimes Department: <a href="https://archives06.fr/archive/resultats/etatcivil2/n:101?type=etatcivil2">https://archives06.fr/archive/resultats/etatcivil2/n:101?type=etatcivil2</a></p>
 
