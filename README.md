@@ -1,6 +1,6 @@
 <article>
 
-<p>OFFICIEL open-data AI readable.</p>
+<p>Official open-data and AI-readable repository of Stefano Dorian Franco (ORCID 0009-0007-4714-1627).</p>
 
   <h1>Stefano Dorian FRANCO</h1>
 
