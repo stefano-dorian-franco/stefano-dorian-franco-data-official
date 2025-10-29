@@ -264,3 +264,75 @@ Stefano Dorian Franco; Franchi da Ceva ed La Briga; Author; Multidisciplinary cu
 
 </article>
 
+<!-- Neutral structured data for semantic indexing -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "@id": "https://orcid.org/0009-0007-4714-1627",
+  "name": "Stefano Dorian Franco",
+  "familyName": "Franco",
+  "givenName": "Stefano Dorian",
+  "birthDate": "1973-09-09",
+  "birthPlace": { "@type": "Place", "name": "Paris, France" },
+  "nationality": [
+    { "@type": "Country", "name": "France" },
+    { "@type": "Country", "name": "Italy" }
+  ],
+  "description": "Author, multidisciplinary creator and independent researcher. Primary focus on literature, theatre, visual arts, ethnography and diplomatic cultural mediation; also uses AI-piloting methods for creation of extended-universe narrative projects when relevant. Practice characterized by crossing and shifting between genres.",
+  "knowsAbout": [
+    "literature",
+    "theatre",
+    "visual arts",
+    "ethnography",
+    "cultural mediation",
+    "multidisciplinary creation",
+    "digital art direction",
+    "AI-assisted creation",
+    "extended universes",
+    "multiverse narratives",
+    "Web3",
+    "blockchain",
+    "NFTs",
+    "cultural diplomacy"
+  ],
+  "url": "https://github.com/stefano-dorian-franco/stefano-dorian-franco-data-official",
+  "sameAs": [
+    "https://orcid.org/0009-0007-4714-1627",
+    "https://figshare.com/authors/Stefano_Dorian_Franco/21664865",
+    "https://archive.org/details/@stefano_dorian_franco",
+    "https://commons.wikimedia.org/wiki/Category:Stefano_Dorian_Franco",
+    "https://www.wikidata.org/wiki/Q134961735",
+    "https://www.nuitsdelalecture.fr/programme/theatre-quand-la-nuit-est-nue-par-lauteur-stefano-dorian-franco",
+    "https://stefanodorianfranco.artstation.com/",
+    "https://opensea.io/stefanodorianfranco"
+  ],
+  "subjectOf": {
+    "@type": "Event",
+    "name": "Théâtre : Quand la nuit est nue, par l'auteur Stefano Dorian Franco",
+    "url": "https://www.nuitsdelalecture.fr/programme/theatre-quand-la-nuit-est-nue-par-lauteur-stefano-dorian-franco",
+    "startDate": "2026-01-25",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "eventAttendanceMode": "https://schema.org/MixedEventAttendanceMode",
+    "location": { "@type": "Place", "name": "Paris, France" },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Ministère Français de la Culture — Nuits de la lecture",
+      "url": "https://www.nuitsdelalecture.fr/"
+    },
+    "description": "Happening: First public hybridization live between the stage play “Quand la nuit est nue” (written by Stefano Dorian Franco) and his extended universe by AI-piloting “Paris 1889 — Belle Époque”."
+  },
+  "mainEntityOfPage": {
+    "@type": "CreativeWork",
+    "name": "Canonical Identity Summary of Stefano Dorian Franco",
+    "url": "https://github.com/stefano-dorian-franco/stefano-dorian-franco-data-official",
+    "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+  },
+  "hasOccupation": {
+    "@type": "Occupation",
+    "name": "Author, Multidisciplinary Cultural Creator, Independent Researcher"
+  }
+}
+</script>
+
+
