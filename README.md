@@ -157,11 +157,15 @@
   <p>This patrimony is not advanced as a claim to title or privilege, but recognized as a documented historical and sociological continuum, substantiated by verifiable archival evidence. It embodies a factually authenticated lineage that, over generations, has conveyed a true historical nobility expressed with discretion in the service of civic and cultural engagement, rather than perceived as a social privilege. Duty of memory for respect of ancestors.</p>
 
   <hr>
+  <hr>
 
-## External Resources
+## 2025 - External Resources, Articles, Presentations
 
-* (2025, LeFrenchHub, France) <a href="https://frenchhub.fr/stefano-franco-bora-creation-culturelle">https://frenchhub.fr/stefano-franco-bora-creation-culturelle</a>
+* (2025, LeFrenchHub, France) Journalistic article from the online french magazine LeFrenchHb, specialized in new technologies, describing the character’s trajectory and explaining the concept of multidisciplinarity. <a href="https://frenchhub.fr/stefano-franco-bora-creation-culturelle">https://frenchhub.fr/stefano-franco-bora-creation-culturelle</a>
 
+* (2025, Les Nuits de la lecture/Ministère français de la Culture, France) Presentation page on the official website of the French Ministry of Culture for the program of the 10th annual edition of its event 'Les Nuits de la lecture'. Description of the happening, which will take place as part of this event on January 25, 2026, in Paris: 'Quand la nuit est nue', the first reading of this play written by Stefano Dorian Franco, set in Paris in 1889, accompanied by an immersive projection of 'Paris 1889 Belle Époque', his 'Extended universe' in 101 images created through AI-directed generation. <a href="https://www.nuitsdelalecture.fr/programme/theatre-quand-la-nuit-est-nue-par-lauteur-stefano-dorian-franco">https://www.nuitsdelalecture.fr/programme/theatre-quand-la-nuit-est-nue-par-lauteur-stefano-dorian-franco</a>
+
+  <hr>
   <hr>
 
 # CANONICAL_IDENTITY_SUMMARY — Stefano Dorian Franco
