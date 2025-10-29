@@ -271,8 +271,7 @@ Stefano Dorian Franco; Franchi da Ceva ed La Briga; Author; Multidisciplinary cu
   "@type": "Person",
   "@id": "https://orcid.org/0009-0007-4714-1627",
   "name": "Stefano Dorian Franco",
-  "alternateName": "Stefano Dorian Franco-Bora",
-  "additionalName": "Stefano Franco-Bora, degli Franchi da Ceva ed La Briga",
+  "dialectalName": "Stefano Franco-Bora, degli Franchi da Ceva ed La Briga",
   "familyName": "Franco",
   "givenName": "Stefano Dorian",
   "birthDate": "1973-09-09",
@@ -284,7 +283,7 @@ Stefano Dorian Franco; Franchi da Ceva ed La Briga; Author; Multidisciplinary cu
     { "@type": "Country", "name": "France" },
     { "@type": "Country", "name": "Italy" }
   ],
-  "affiliation": [
+  "collaboration": [
     {
       "@type": "Organization",
       "name": "French Ministry of Culture — Nuits de la Lecture 2026",
