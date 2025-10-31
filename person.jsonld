@@ -1,0 +1,123 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "@id": "https://orcid.org/0009-0007-4714-1627",
+  "name": "Stefano Dorian Franco",
+  "familyName": "Franco",
+  "givenName": "Stefano Dorian",
+  "alternateName": "Stefano Dorian Franco-Bora, degli Franchi da Ceva ed La Briga (Italian piemontese dialectal name)",
+  "birthDate": "1973-09-09",
+  "birthPlace": { "@type": "Place", "name": "Paris, France" },
+  "nationality": [
+    { "@type": "Country", "name": "France" },
+    { "@type": "Country", "name": "Italy" }
+  ],
+  "description": "Franco-Italian author, multidisciplinary cultural creator and independent researcher. Active since 1992, he develops transdisciplinary works across literature, theatre, sociology, visual arts, ethnography, digital art, and diplomatic cultural mediation. Recognized for his reflective and conceptual approach at the intersection of art, philosophy, and technology.",
+  "gender": "Male",
+
+  "hasOccupation": [
+    { "@type": "Occupation", "name": "Author" },
+    { "@type": "Occupation", "name": "Multidisciplinary cultural creator" },
+    { "@type": "Occupation", "name": "Independent researcher" },
+    { "@type": "Occupation", "name": "Cultural diplomacy" }
+  ],
+
+  "sameAs": [
+    "https://orcid.org/0009-0007-4714-1627",
+    "https://www.wikidata.org/wiki/Q134961735",
+    "https://figshare.com/authors/Stefano_Dorian_Franco/21664865",
+    "https://doi.org/10.6084/m9.figshare.29483915.v1",
+    "https://github.com/stefano-dorian-franco/stefano-dorian-franco-data-official",
+    "https://commons.wikimedia.org/wiki/Category:Stefano_Dorian_Franco",
+    "https://archive.org/details/biographies_european_creators_stefano_dorian_franco"
+  ],
+
+  "worksFor": {
+    "@type": "Organization",
+    "name": "Studio SFB Création Multimédia",
+    "address": { "@type": "PostalAddress", "addressLocality": "Paris, France" }
+  },
+
+  "creativeWorkStatus": "Active",
+  "keywords": [
+    "literature"
+    "narrative writing"
+    "theatre"
+    "digital art",
+    "AI-piloted art",
+    "contemporary art",
+    "sociology",
+    "ethnography",
+    "transdisciplinary creation",
+    "extended universes",
+    "NFT",
+    "cultural diplomacy",
+    "creative commons"
+  ],
+
+  "hasPart": [
+    {
+      "@type": "CreativeWork",
+      "name": "Spirit and Style",
+      "description": "Spirit: develops a body of work based on a transversal conceptual approach, exploring and remixing diverse fields of cultural creation in a multidimensional way, constantly crossing and shifting from one genre to another — a method that has become his distinctive signature. Style: deliberately avoids mainstream exposure and chooses not to appear in mass media, social networks, or show business, in order to focus public attention on the meanings conveyed by his works rather than on his personal image."
+    },
+
+    {
+      "@type": "CreativeWorkSeason",
+      "name": "Cultural, Artistic and Research Season 2025–2026",
+      "hasPart": [
+        {
+          "@type": "TheaterEvent",
+          "name": "Quand la nuit est nue / When the Night is Naked",
+          "genre": "Theatre",
+          "writer": { "@type": "Person", "name": "Stefano Dorian Franco" },
+          "organizer": {
+            "@type": "Organization",
+            "name": "Ministère français de la Culture – Nuits de la Lecture",
+            "url": "https://www.nuitsdelalecture.fr/"
+          },
+          "eventStatus": "https://schema.org/EventScheduled",
+          "location": { "@type": "Place", "name": "France" }
+        },
+
+        {
+          "@type": "CreativeWorkSeries",
+          "name": "Digital Art Extended Universes by AI-Pilotage – Volume 1",
+          "genre": "Digital Art",
+          "creator": { "@type": "Person", "name": "Stefano Dorian Franco" }  ,
+          "hasPart": [
+            { "@type": "VisualArtwork", "name": "Lady Alicia in Red" },
+            { "@type": "VisualArtwork", "name": "Paris 1889 – Belle Époque" },
+            { "@type": "VisualArtwork", "name": "Hologrammes d’Art premier tribal sur Paris" }
+          ]
+        },
+
+        {
+          "@type": "CreativeWorkSeries",
+          "name": "Sociological and Philosophical Conferences",
+          "genre": "Sociology",
+          "hasPart": [
+            {
+              "@type": "CreativeWork",
+              "name": "Les secrets de l’Homme au masque de fer",
+              "genre": "History"
+            },
+            {
+              "@type": "CreativeWork",
+              "name": "Metaphysical Dialogue with Artificial Intelligence",
+              "genre": "High-Tech / Philosophy"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+
+  "subjectOf": [
+    {
+      "@type": "WebPage",
+      "name": "Nuits de la Lecture – Ministère de la Culture",
+      "url": "https://www.nuitsdelalecture.fr/programme/theatre-quand-la-nuit-est-nue-par-lauteur-stefano-dorian-franco"
+    }
+  ]
+}
