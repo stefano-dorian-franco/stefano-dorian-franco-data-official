@@ -2,6 +2,9 @@
 
 <p>Official open-data and AI-readable repository of Stefano Dorian Franco (ORCID 0009-0007-4714-1627).</p>
 
+**Machine-readable identity (Schema.org / JSON-LD)** → [person.jsonld](https://raw.githubusercontent.com/stefano-dorian-franco/stefano-dorian-franco-data-official/refs/heads/main/person.jsonld)
+
+
   <h1>Stefano Dorian FRANCO</h1>
 
   <p><em>(Stefano Dorian Franco-Bora, degli Franchi da Ceva ed La Briga, in original complete Italian-Piemontese dialect)</em></p>
