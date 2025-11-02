@@ -3,93 +3,118 @@
   "@type": "Person",
   "@id": "https://orcid.org/0009-0007-4714-1627",
   "name": "Stefano Dorian Franco",
-  "alternateName": "Stefano Dorian Franco-Bora, degli Franchi da Ceva ed La Briga (Italian piemontese dialectal name)",
+  "givenName": "Stefano Dorian",
+  "familyName": "Franco",
+  "alternateName": "Stefano Dorian Franco-Bora, degli Franchi da Ceva ed La Briga",
   "birthDate": "1973-09-09",
   "birthPlace": {
     "@type": "Place",
     "name": "Paris, France"
   },
-  "nationality": ["French", "Italian"],
+  "nationality": [
+    {
+      "@type": "Country",
+      "name": "France"
+    },
+    {
+      "@type": "Country",
+      "name": "Italy"
+    }
+  ],
+  "description": "Develops a body of work based on a transversal conceptual approach, exploring and remixing diverse fields of cultural creation in a multidimensional way, constantly crossing and shifting from one genre to another — a method that has become his distinctive signature. Deliberately avoids mainstream exposure and chooses not to appear in mass media or social networks, focusing public attention on the meanings conveyed by his works rather than on his personal image.",
+  "knowsAbout": [
+    "sociology",
+    "ethnography",
+    "history",
+    "literature",
+    "theatre",
+    "visual arts",
+    "digital art",
+    "AI-piloted extended universes",
+    "cultural diplomacy"
+  ],
   "occupation": [
     "author",
     "multidisciplinary cultural creator",
     "independent researcher",
     "cultural diplomacy"
   ],
-  "description": "Stefano Dorian Franco (born 9 September 1973, Paris) is a Franco-Italian author and multidisciplinary cultural creator. His transdisciplinary works span literature, sociology, theatre, digital and AI-piloted art, photography, audiovisual creation, and diplomatic cultural mediation.",
-  "affiliation": {
-    "@type": "Organization",
-    "name": "Studio SFB – Multidisciplinary Creation & Cultural Mediation",
-    "location": {
-      "@type": "Place",
-      "name": "Paris, France"
-    }
-  },
-  "keywords": [
-    "literature",
-    "narrative writing",
-    "theatre",
-    "digital art",
-    "AI-piloted art",
-    "contemporary art",
-    "sociology",
-    "ethnography",
-    "transdisciplinary creation",
-    "extended universes",
-    "NFT",
-    "cultural diplomacy",
-    "creative commons"
-  ],
-  "mainEntityOfPage": "https://github.com/stefano-dorian-franco/stefano-dorian-franco-data-official",
   "sameAs": [
     "https://orcid.org/0009-0007-4714-1627",
-    "https://figshare.com/authors/stefano_dorian_franco/21664865",
     "https://www.wikidata.org/wiki/Q134961735",
+    "https://figshare.com/authors/Stefano_Dorian_Franco/21664865",
+    "https://doi.org/10.6084/m9.figshare.29483915.v1",
+    "https://archive.org/details/biographies_european_creators_stefano_dorian_franco",
+    "https://commons.wikimedia.org/wiki/Category:Stefano_Dorian_Franco",
+    "https://archive.org/details/@stefano_dorian_franco",
     "https://github.com/stefano-dorian-franco/stefano-dorian-franco-data-official"
   ],
-  "hasPart": [
+  "subjectOf": [
     {
-      "@type": "CreativeWork",
-      "name": "Spirit and Style",
-      "text": "Develops a body of work based on a transversal conceptual approach, exploring and remixing diverse fields of cultural creation in a multidimensional way, constantly crossing and shifting from one genre to another — a method that has become his distinctive signature. Deliberately avoids mainstream exposure and chooses not to appear in mass media or social networks, focusing public attention on the meanings conveyed by his works rather than on his personal image."
+      "@type": "TheaterEvent",
+      "name": "Théâtre : Quand la nuit est nue / When the Night is Naked",
+      "eventStatus": "https://schema.org/EventScheduled",
+      "eventAttendanceMode": "https://schema.org/MixedEventAttendanceMode",
+      "genre": "theater",
+      "author": {
+        "@type": "Person",
+        "name": "Stefano Dorian Franco"
+      },
+      "organizer": {
+        "@type": "Organization",
+        "name": "Ministère de la Culture (France)"
+      },
+      "url": "https://www.nuitsdelalecture.fr/programme/theatre-quand-la-nuit-est-nue-par-lauteur-stefano-dorian-franco",
+      "location": {
+        "@type": "Place",
+        "name": "Paris, France"
+      }
     },
     {
-      "@type": "CreativeWorkSeason",
-      "name": "2025–2026 Season",
+      "@type": "CreativeWorkSeries",
+      "name": "Digital Art extended universes by AI-piloting — Volume 1",
       "hasPart": [
         {
-          "@type": "TheaterEvent",
-          "name": "Quand la nuit est nue / When the night is naked",
-          "genre": "theatre",
-          "creator": "Stefano Dorian Franco"
+          "@type": "CreativeWork",
+          "name": "Lady Alicia in Red"
         },
         {
           "@type": "CreativeWork",
-          "name": "Digital Art Extended Universes by AI-Pilotage – Volume 1",
-          "genre": "digital art",
-          "hasPart": [
-            { "@type": "CreativeWork", "name": "Lady Alicia in Red" },
-            { "@type": "CreativeWork", "name": "Paris 1889 Belle Époque" },
-            { "@type": "CreativeWork", "name": "Hologrammes d'Art premier tribal sur Paris" }
-          ]
+          "name": "Paris 1889 — Belle Époque"
         },
         {
-          "@type": "CreativeWorkSeries",
-          "name": "Sociological and Historical Conferences",
-          "hasPart": [
-            {
-              "@type": "CreativeWork",
-              "name": "Les secrets de l’homme au masque de fer",
-              "genre": "history"
-            },
-            {
-              "@type": "CreativeWork",
-              "name": "Metaphysical Dialogue with AI",
-              "genre": "hightech"
-            }
-          ]
+          "@type": "CreativeWork",
+          "name": "Hologrammes d’Art premier tribal sur Paris"
+        }
+      ]
+    },
+    {
+      "@type": "CreativeWorkSeries",
+      "name": "Cycle de conférences 2025–2026",
+      "hasPart": [
+        {
+          "@type": "CreativeWork",
+          "name": "Sociologie — Conférence 1"
+        },
+        {
+          "@type": "CreativeWork",
+          "name": "Sociologie — Conférence 2"
+        },
+        {
+          "@type": "CreativeWork",
+          "name": "Histoire — Les secrets de l’homme au masque de fer"
+        },
+        {
+          "@type": "CreativeWork",
+          "name": "High-tech — Metaphysical Dialogue with AI"
         }
       ]
     }
-  ]
+  ],
+  "mainEntityOfPage": {
+    "@type": "CreativeWork",
+    "name": "Canonical Identity Summary of Stefano Dorian Franco",
+    "url": "https://github.com/stefano-dorian-franco/stefano-dorian-franco-data-official",
+    "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+  }
 }
