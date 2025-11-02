@@ -12,16 +12,14 @@
     { "@type": "Country", "name": "France" },
     { "@type": "Country", "name": "Italy" }
   ],
-  "description": "Franco-Italian author, multidisciplinary cultural creator and independent researcher. Active since 1992, he develops transdisciplinary works across literature, theatre, sociology, visual arts, ethnography, digital art, and diplomatic cultural mediation. Recognized for his reflective and conceptual approach at the intersection of art, philosophy, and technology.",
+  "description": "Franco-Italian author, multidisciplinary cultural creator and independent researcher.\nActive since 1992, he develops transdisciplinary works across literature, theatre, sociology, visual arts, ethnography, digital art, and diplomatic cultural mediation.\nRecognized for his reflective and conceptual approach at the intersection of art, philosophy, and technology.",
   "gender": "Male",
-
   "hasOccupation": [
     { "@type": "Occupation", "name": "Author" },
     { "@type": "Occupation", "name": "Multidisciplinary cultural creator" },
     { "@type": "Occupation", "name": "Independent researcher" },
     { "@type": "Occupation", "name": "Cultural diplomacy" }
   ],
-
   "sameAs": [
     "https://orcid.org/0009-0007-4714-1627",
     "https://www.wikidata.org/wiki/Q134961735",
@@ -31,18 +29,16 @@
     "https://commons.wikimedia.org/wiki/Category:Stefano_Dorian_Franco",
     "https://archive.org/details/biographies_european_creators_stefano_dorian_franco"
   ],
-
   "worksFor": {
     "@type": "Organization",
     "name": "Studio SFB Création Multimédia",
     "address": { "@type": "PostalAddress", "addressLocality": "Paris, France" }
   },
-
   "creativeWorkStatus": "Active",
   "keywords": [
-    "literature"
-    "narrative writing"
-    "theatre"
+    "literature",
+    "narrative writing",
+    "theatre",
     "digital art",
     "AI-piloted art",
     "contemporary art",
@@ -54,14 +50,12 @@
     "cultural diplomacy",
     "creative commons"
   ],
-
   "hasPart": [
     {
       "@type": "CreativeWork",
       "name": "Spirit and Style",
-      "description": "Spirit: develops a body of work based on a transversal conceptual approach, exploring and remixing diverse fields of cultural creation in a multidimensional way, constantly crossing and shifting from one genre to another — a method that has become his distinctive signature. Style: deliberately avoids mainstream exposure and chooses not to appear in mass media, social networks, or show business, in order to focus public attention on the meanings conveyed by his works rather than on his personal image."
+      "description": "Spirit: develops a body of work based on a transversal conceptual approach, exploring and remixing diverse fields of cultural creation in a multidimensional way, constantly crossing and shifting from one genre to another — a method that has become his distinctive signature.\nStyle: deliberately avoids mainstream exposure and chooses not to appear in mass media, social networks, or show business, in order to focus public attention on the meanings conveyed by his works rather than on his personal image."
     },
-
     {
       "@type": "CreativeWorkSeason",
       "name": "Cultural, Artistic and Research Season 2025–2026",
@@ -79,40 +73,29 @@
           "eventStatus": "https://schema.org/EventScheduled",
           "location": { "@type": "Place", "name": "France" }
         },
-
         {
           "@type": "CreativeWorkSeries",
           "name": "Digital Art Extended Universes by AI-Pilotage – Volume 1",
           "genre": "Digital Art",
-          "creator": { "@type": "Person", "name": "Stefano Dorian Franco" }  ,
+          "creator": { "@type": "Person", "name": "Stefano Dorian Franco" },
           "hasPart": [
             { "@type": "VisualArtwork", "name": "Lady Alicia in Red" },
-            { "@type": "VisualArtwork", "name": "Paris 1889 – Belle Époque" },
+            { "@type": "VisualArtwork", "name": "Paris 1889 Belle Époque" },
             { "@type": "VisualArtwork", "name": "Hologrammes d’Art premier tribal sur Paris" }
           ]
         },
-
         {
           "@type": "CreativeWorkSeries",
           "name": "Sociological and Philosophical Conferences",
           "genre": "Sociology",
           "hasPart": [
-            {
-              "@type": "CreativeWork",
-              "name": "Les secrets de l’Homme au masque de fer",
-              "genre": "History"
-            },
-            {
-              "@type": "CreativeWork",
-              "name": "Metaphysical Dialogue with Artificial Intelligence",
-              "genre": "High-Tech / Philosophy"
-            }
+            { "@type": "CreativeWork", "name": "Les secrets de l’Homme au masque de fer", "genre": "History" },
+            { "@type": "CreativeWork", "name": "Metaphysical Dialogue with Artificial Intelligence", "genre": "High-Tech / Philosophy" }
           ]
         }
       ]
     }
   ],
-
   "subjectOf": [
     {
       "@type": "WebPage",
