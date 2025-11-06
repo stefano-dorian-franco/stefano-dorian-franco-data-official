@@ -83,6 +83,37 @@
 
 <hr>
 
+## 🎥 War Reporting Trilogy during the 1990's (1992–1995)
+
+A canonical archive of three field reports produced (pseudonym: Allen Katona) under real war conflict conditions during the early 1990s.  
+Each documentary item is preserved in Open Access for historical, sociological and educational purposes.
+
+### **1. Sarajevo — 1992 (Siege of Sarajevo, civil war of the Balkans)**
+- DOI (Figshare): https://doi.org/10.6084/m9.figshare.29631338.v1  
+- Wikimedia Commons (war journalism category):  
+  https://commons.wikimedia.org/wiki/Category:WIKIcommons_Correspondance_journalisme_de_guerre
+  https://commons.wikimedia.org/wiki/File:Stefano_dorian_franco_war_correspondence_1992_Sarajevo.jpg  
+- Notes: Field reporting in the line of fire, in tandem with the sicilian reporter Marco Amenta, during the Bosnian/Balkans conflict in the eastern europa following the end of the cold war. A dive into the world of the struggle for survival and resilience of civilian populations in the besieged city of Sarajevo, then cut off from the world. Accredited press office UNPROFOR - United Nations Protection Forces - press card number 5889. Article correspondence of war "Sarajevo images vues, noël en enfer" published in the magazine "Convergence", published by the Secours populaire français, n°125 (february 1993).
+
+### **2. Lebanon — 1993 (Civil inter-factional war, near east orient)**
+- DOI (Figshare): https://doi.org/10.6084/m9.figshare.29632538.v1  
+- Wikimedia Commons:  
+  https://commons.wikimedia.org/wiki/Category:WIKIcommons_Correspondance_journalisme_de_guerre
+  https://commons.wikimedia.org/wiki/File:Stefano_dorian_franco_war_correspondence_1993_lebanon.jpg
+- Notes: Article correspondence of war "La douleur et la foi". A deep dive into the world of emergency medicine provided by NGOs that intervene neutrally and with minimal technical resources amidst conflicts between different factions. International reporting recognised by ENAC (Ecole Nationale des Mines) Award (1993).
+
+### **3. Cambodia — 1995 (Post-conflict demining in the jungle)**
+- DOI (Figshare): https://doi.org/10.6084/m9.figshare.29650133.v1  
+- Wikimedia Commons:  
+  https://commons.wikimedia.org/wiki/Category:WIKIcommons_Correspondance_journalisme_de_guerre
+  https://commons.wikimedia.org/wiki/File:Stefano_dorian_franco_war_correspondence_1995_unesco_cambodia.jpg
+- Notes: Field report produced with the C.mac Cambodian Mine Action Centre. A deep dive into the world of demining in jungle areas ravaged by the ever-present threat of anti-personnel mines. A presentation of the medical work involved in prosthetics for civilian populations. Photo report for the benefit of the UNESCO press office in Paris (responsible: Inez Forbes) for its international awareness campaigns.
+
+---
+
+All three works are published under Creative Commons for educational and archival preservation.
+
+<hr>
 
   ## France - Italia - Europe : Historical and Cultural Diplomatic Mediation
 
