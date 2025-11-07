@@ -312,7 +312,7 @@ These 2024 works complement the earlier Riding on the Sky Storm Mystery opera by
 
 <hr>
 
-## 🧭 SOCIOLOGICAL RESEARCH: Databases & Conference Materials — Past History (15th–19th c.) & the AI Revolution (21st c.) (since 2023)
+## 🧭 Sociological research: Databases & Conference Materials — Past History (15th–19th c.) & the AI Revolution (21st c.) (since 2023)
 
 Between 2023 and 2025, a major cycle of sociological research was conducted along two complementary thematic axes:
 
@@ -446,7 +446,7 @@ This dual ecosystem ensures that the Extended Universes exist simultaneously:
 <hr>
 <hr>
 
-  ## France - Italia - Europe : Historical and Cultural Diplomatic Tradition and Mediation
+  ## France - Italia - Europe : Historical and Cultural Diplomatic Tradition and Mediation (since 2013)
 
   ### **Historical cultural and diplomatic researches (2013 to 2017) for the Circle of the Italiani Oriundi di Parigi created in 1861** 
   
