@@ -191,6 +191,71 @@ Ethnographic documentary film directed by Stefano Dorian Franco
 
 <hr>
 
+  ## Audiobooks — Classic French Literature (17th–19th Century)
+
+### **This selection presents a curated corpus of foundational texts from 17th–19th century French literature, with a particular emphasis on authors who shaped the intellectual foundations of the Age of Enlightenment (Siècle des Lumières).
+These audiobooks were produced and released in full-text Creative Commons format with the objective of supporting inclusive access, notably for visually impaired audiences, students in French-language programs, and learners seeking immersion in classical literature through audio.**
+
+All recordings are released in open educational access, available on Figshare with DOI indexing and preserved on Wikimedia Commons.
+
+• Éloge de la sincérité – In Praise of Sincerity (Montesquieu, 1717)
+
+Full-text audiobook version by Stefano Dorian Franco
+🔗 https://figshare.com/articles/media/Eloge_de_la_sinc_rit_-_In_Praise_of_Sincerity_-_by_Montesquieu_1717_Philosophical_dissertation_that_founded_the_Enlightenment_school_of_thought_in_the_18th_century_full-text_audiobook_version_by_Stefano_Dorian_Franco/29484077
+
+Philosophical dissertation considered one of the seeds of early Enlightenment thought, exploring sincerity as a moral and political foundation.
+
+• Essai sur le Génie – Essay on Genius (Denis Diderot, 1751)
+
+Full-text audiobook version by Stefano Dorian Franco
+🔗 https://figshare.com/articles/media/Essai_sur_le_G_nie_-_Essay_on_Genious_by_Denis_Diderot_1751_Study_of_the_philosophy_of_the_18th_century_Enlightenment_full-text_audiobook_version_by_Stefano_Dorian_Franco/29484110
+
+A philosophical analysis of genius in the context of Enlightenment epistemology, creativity, and human intellectual potential.
+
+• La Belle et la Bête – Beauty and the Beast (Leprince de Beaumont, 1757)
+
+Full-text audiobook version by Stefano Dorian Franco
+🔗 https://figshare.com/articles/media/La_Belle_et_la_B_te_Beauty_and_the_Beast_of_Leprince_de_Beaumont_1757_Study_on_18th-Century_Construction_Narrative_and_Symbolic_Archetypes_full-text_audiobook_version_by_Stefano_Dorian_Franco/29484143
+
+A major Enlightenment-era tale analyzing narrative structure and symbolic archetypes in 18th-century French didactic literature.
+
+• Aventure Incompréhensible (Marquis de Sade, 1788)
+
+Full-text audiobook version by Stefano Dorian Franco
+🔗 https://figshare.com/articles/media/Aventure_Incomprehensible_by_Marquis_de_Sade_1788_Ethnography_on_18th-Century_European_witchcraft_rituals_in_remote_countryside_full-text_audiobook_version_by_Stefano_Dorian_Franco/29484122
+
+A rare short text providing an ethnographic window on witchcraft beliefs and rural ritual practices in late 18th-century Europe.
+
+• Essai sur l'art de ramper à l'usage des courtisans – Essay on the Art of Crawling for the Use of Courtiers (Baron d’Holbach, 1790)
+
+Full-text audiobook version by Stefano Dorian Franco
+🔗 https://figshare.com/articles/media/Essai_sur_l_art_de_ramper_l_usage_des_courtisans_Essay_on_the_Art_of_Crawling_for_the_Use_of_Courtiers_by_Baron_d_Holbach_1790_Sociological_Satirical_Study_full-text_audiobook_version_by_Stefano_Dorian_Franco/29484149
+
+Political satire and sociological critique of court society, examining mechanisms of power, flattery, and social dependency.
+
+• Le Testament d’Olympe de Gouges (1793)
+
+Full-text audiobook version by Stefano Dorian Franco
+🔗 https://figshare.com/articles/media/The_testament_of_Olympe_de_Gouges_1793_Sociological_full-text_audiobook_version_by_Stefano_Dorian_Franco/29484131
+
+A sociopolitical testament by a major Enlightenment feminist thinker, reflecting the struggles for rights, justice, and civic equality.
+
+• Les Chimères (Gérard de Nerval, 1854)
+
+Full-text audiobook version by Stefano Dorian Franco
+🔗 https://figshare.com/articles/media/Les_Chim_res_of_G_rard_de_Nerval_1854_Study_on_19th-Century_European_Literature_full-text_audiobook_version_by_Stefano_Dorian_Franco/29484152
+
+Symbolist poetry exploring mythology, dream logic, and metaphysical inner states, marking a turning point in 19th-century literature.
+
+• La Peur – The Fear (Guy de Maupassant, 1884)
+
+Full-text audiobook version by Stefano Dorian Franco
+🔗 https://figshare.com/articles/media/La_Peur_-_The_Fear_by_Guy_de_Maupassant_1884_Study_of_the_construction_of_psychoanalytic_narration_in_19th_century_literature_full-text_audiobook_version_by_Stefano_Dorian_Franco/29484155
+
+A pioneering study in psychological and proto-psychoanalytic narrative exploring fear, trauma, and perception in realist literature.
+
+<hr>
+
   ## France - Italia - Europe : Historical and Cultural Diplomatic Tradition and Mediation
 
   ### **Historical cultural and diplomatic researches (2013 to 2017) for the Circle of the Italiani Oriundi di Parigi created in 1861** 
