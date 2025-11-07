@@ -88,36 +88,97 @@
 A canonical archive of three field reports produced (pseudonym: Allen Katona) under real war conflict conditions during the early 1990s.  
 Each documentary item is preserved in Open Access for historical, sociological and educational purposes.
 
-### **1. Sarajevo — 1992 (Siege of Sarajevo, civil war of the Balkans)**
+### **Sarajevo — 1992 (Siege of Sarajevo, civil war of the Balkans)**
 - DOI (Figshare): https://doi.org/10.6084/m9.figshare.29631338.v1  
 - Wikimedia Commons (war journalism category):  
   https://commons.wikimedia.org/wiki/Category:WIKIcommons_Correspondance_journalisme_de_guerre
   https://commons.wikimedia.org/wiki/File:Stefano_dorian_franco_war_correspondence_1992_Sarajevo.jpg  
 - Notes: Field reporting in the line of fire, in tandem with the sicilian reporter Marco Amenta, during the Bosnian/Balkans conflict in the eastern europa following the end of the cold war. A dive into the world of the struggle for survival and resilience of civilian populations in the besieged city of Sarajevo, then cut off from the world. Accredited press office UNPROFOR - United Nations Protection Forces - press card number 5889. Article correspondence of war "Sarajevo images vues, noël en enfer" published in the magazine "Convergence", published by the Secours populaire français, n°125 (february 1993).
 
-### **2. Lebanon — 1993 (Civil inter-factional war, near east orient)**
+### **Lebanon — 1993 (Civil inter-factional war, near east orient)**
 - DOI (Figshare): https://doi.org/10.6084/m9.figshare.29632538.v1  
 - Wikimedia Commons:  
   https://commons.wikimedia.org/wiki/Category:WIKIcommons_Correspondance_journalisme_de_guerre
   https://commons.wikimedia.org/wiki/File:Stefano_dorian_franco_war_correspondence_1993_lebanon.jpg
 - Notes: Article correspondence of war "La douleur et la foi". A deep dive into the world of emergency medicine provided by NGOs that intervene neutrally and with minimal technical resources amidst conflicts between different factions. International reporting recognised by ENAC (Ecole Nationale des Mines) Award (1993).
 
-### **3. Cambodia — 1995 (Post-conflict demining in the jungle)**
+### **Cambodia — 1995 (Post-conflict demining in the jungle)**
 - DOI (Figshare): https://doi.org/10.6084/m9.figshare.29650133.v1  
 - Wikimedia Commons:  
   https://commons.wikimedia.org/wiki/Category:WIKIcommons_Correspondance_journalisme_de_guerre
   https://commons.wikimedia.org/wiki/File:Stefano_dorian_franco_war_correspondence_1995_unesco_cambodia.jpg
 - Notes: Field report produced with the C.mac Cambodian Mine Action Centre. A deep dive into the world of demining in jungle areas ravaged by the ever-present threat of anti-personnel mines. A presentation of the medical work involved in prosthetics for civilian populations. Photo report for the benefit of the UNESCO press office in Paris (responsible: Inez Forbes) for its international awareness campaigns.
 
----
-
-All three works are published under Creative Commons for educational and archival preservation.
 
 <hr>
 
-  ## France - Italia - Europe : Historical and Cultural Diplomatic Mediation
+## 🎥Ethnographic Exploration (Spec: Ancestral tribal traditions and codes of India and Asia)
 
-  <p>Historical cultural and diplomatic researches *** Circle of the Italiani Oriundi di Parigi from the former Piedmontese Kingdom of Sardinia (Piemonte, Savoy, County of Nice, Val d'Aoste, Isle of Sardinia) 1720/1861</p>
+A selection of ethnographic and sociological works focused on ancestral Asian cultures, rituals, spiritual traditions, and diasporic practices. These items are released in Creative Commons for educational access, documentation, and cultural preservation.
+
+### **India - 1996/97 - Book: Voir l’aube à Bénarès / Dawn in Benares**
+
+Book written by Stefano Dorian Franco (aka Allen Katona)
+🔗 https://indiaculturestefanofrancobora-70.checkout.webselfsite.net/india-art-creation-by-stefano-franco-bora
+
+— Trilingual ethnographic book (French/English/Hindi) blending poetry and B&W fine art photography.
+— Explores Hindu mysticism, Varanasi rituals, metaphysical cycles of death, transition and reincarnation.
+— Published by ASEI Éditions, Paris. ISBN 2-912217-00-8.
+
+### **Laos - 2008 - Documentary Film: Mystic Luang Prabang — Buddhist Rituals at the UNESCO Heritage Temple**
+
+Ethnographic documentary film directed by Stefano Dorian Franco
+🔗 https://figshare.com/articles/media/_b_Ethnographic_Exploration_b_-_Asia_Laos_Mystic_Luang_Prabang_Temple_Buddhist_Rituals_UNESCO_world_heritage_site_-_Documentary_directed_by_Stefano_Dorian_Franco/29896673
+🔗 https://commons.wikimedia.org/wiki/File:Asia_Laos_Luang_Prabang_Temple_Unesco_WorldHeritage_-_2008_-_Ethnographic_documentaries_and_cultural_diplomacy_by_Stefano_Dorian_Franco.webm
+🔗 https://archive.org/details/asia_laos-ethnography_luangphrabang_2008_by_stefano_dorian_franco
+
+— Study of Buddhist ritual life within Luang Prabang’s UNESCO World Heritage temple complex.
+— Documents monastic codes, ceremonial, symbolism, and spiritual practices.
+
+### **Laos - 2008 - Documentary film: Mystic Mekong Temples & Ancestral Spirit Traditions**
+
+Ethnographic documentary film directed by Stefano Dorian Franco
+🔗 https://figshare.com/articles/media/_b_Ethnographic_Exploration_b_-_Asia_Laos_Mystic_Mekong_Temples_Trad_Rituals_-_Documentary_directed_by_Stefano_Dorian_Franco/29613731
+🔗 https://commons.wikimedia.org/wiki/File:Asia_Laos_Mekong_Mystic_Temples_-_2008_-_Ethnographic_documentaries_and_cultural_diplomacy_by_Stefano_Dorian_Franco.webm
+🔗 https://archive.org/details/ethnographic_exploration_asia_laos_mystic_mekong_temples_documentary_by_stefano_dorian_franco
+
+— Fieldwork on animist and ancestral-spirit traditions in isolated Mekong villages.
+— Examines guardian-spirit rituals, temple symbolism, and the coexistence of animism with Buddhism.
+
+### **Indian Ganesh ceremony in Paris — 2010 - Hindu Rituals & Processions in the european Diaspora — Paris, France**
+
+Ethnographic documentary film directed by Stefano Dorian Franco
+🔗 https://figshare.com/articles/media/_b_Ethnographic_Exploration_b_-_India_Ganesh_in_Paris_Hindu_Procession_Rituals_-_Documentary_directed_by_Stefano_Dorian_Franco/29896922
+🔗 https://commons.wikimedia.org/wiki/File:India_Culture_-_in_Paris_the_yearly_Ganesh_Procession_-_2010_-_Ethnographic_documentaries_and_cultural_diplomacy_by_Stefano_Dorian_Franco.webm
+🔗 https://archive.org/details/ethnographic_exploration_india_paris_ganesh_procession_ceremony_documentary_by-stefano_dorian_franco
+
+— Annual Parisian Ganesh Chaturthi procession documenting Hindu diaspora rituals in Europe.
+— Shows ceremonial symbolism, temple offerings, devotional music, and the transmission of Tamil Hindu traditions abroad.
+
+### **Chinese community ceremony in Paris — 2010 - Yearly Chinese New Year Procession & Rituals in the european Diaspora — Paris, France**
+
+Ethnographic documentary film directed by Stefano Dorian Franco
+🔗 https://figshare.com/articles/media/_b_Ethnographic_Exploration_b_China_in_Paris_yearly_Chinese_new_year_Procession_Ritual_Ceremony_-_Documentary_directed_by_Stefano_Dorian_Franco/29896955
+🔗 https://commons.wikimedia.org/wiki/File:China_Culture_-_in_Paris_the_yearly_New_Chinese_Year_Procession_-_2010_-_Ethnographic_documentaries_and_cultural_diplomacy_by_Stefano_Dorian_Franco.webm
+🔗 https://archive.org/details/ethnography_asia_china-in-paris_doc_by_stefano_dorian_franco
+
+— Documentation of Europe’s largest annual Chinese New Year public ceremony.
+— Shows symbolic costumes, lion and dragon dances, incense rites, and diaspora cultural visibility.
+
+### Chinese Taipei (Taiwan) Sociological synergy of the sport impact on the global society - 2012 - Societal Observation of urban codes in Asian contemporary pop culture**
+
+Ethnographic documentary film directed by Stefano Dorian Franco
+🔗 https://figshare.com/articles/media/_b_Ethnographic_Exploration_b_Taipei_Taiwan_sociological_approach_to_the_theme_of_sport_in_society_-_Documentary_directed_by_Stefano_Dorian_Franco/29905655
+🔗 https://archive.org/details/asia_taiwan_ethnography_sportdevelopment_2012_by_stefano_dorian_franco
+
+— Sociological study filmed in Taipei exploring the role of sport in modern Chinese Taiwanese society.
+— Observes interactions in public spaces, youth practices, cultural habits, and social dynamics.
+
+<hr>
+
+  ## France - Italia - Europe : Historical and Cultural Diplomatic Tradition and Mediation
+
+  <p>Historical cultural and diplomatic researches (2013 to 2017) for the Circle of the Italiani Oriundi di Parigi created in 1861, cultural society of the descendants from the former Piedmontese Kingdom of Sardinia (Piemonte, Savoy, County of Nice, Val d'Aoste, Isle of Sardinia) 1720/1861</p>
 
   <p>= <a href="https://en.wikipedia.org/wiki/Kingdom_of_Sardinia_(1720–1861)">https://en.wikipedia.org/wiki/Kingdom_of_Sardinia_(1720–1861)</a></p>
 
@@ -127,7 +188,7 @@ All three works are published under Creative Commons for educational and archiva
     ***
 </p>
 <p>
-    <span style="font-weight: bold;">Note on the Genealogical Section:</span> This detailed genealogical section is included not for personal or promotional purposes, but to document a required familial anchor for the creator's philanthropic activities. Parallel to his personal multidisciplinary creative work, S.D. is involved in cultural diplomacy within the 'Circolo Oriundi Italiani di Parigi'—a circle founded in 1861 during the creation of the united kingdom of Italy in Turin by Piedmontese in diaspora in Paris. The circle's mission, which includes the duty of memory for their ancestors, the preservation of past and present cultural heritage for the future generations, the mutual aid for Italian expatriates in Paris and French people in Italy, and current Franco-Italian synergy, traditionally requires its active members to demonstrate a lineage authenticated for nobility in the *Blasonario Subalpino*, making this genealogical data a prerequisite for legitimacy in this work, apolitical and purely in mediation, of public interest.
+    <span style="font-weight: bold;">Note on the Genealogical Section:</span> This detailed genealogical section is included not for personal or promotional purposes, but to document a required familial anchor for the creator's philanthropic activities. Parallel to his personal multidisciplinary creative work, S.D. Franco is involved in cultural diplomacy within the 'Circolo Oriundi Italiani di Parigi'—a circle founded in 1861 during the creation of the united kingdom of Italy in Turin by Piedmontese in diaspora in Paris. The circle's mission, which includes the duty of memory for their ancestors, the preservation of past and present cultural heritage for the future generations, the mutual aid for Italian expatriates in Paris and French people in Italy, and current Franco-Italian synergy, traditionally requires its active members to demonstrate a lineage authenticated for nobility in the *Blasonario Subalpino*, making this genealogical data a prerequisite for legitimacy in this work, apolitical and purely in mediation, of public interest. Stefano Dorian's civic work of archivist and researcher from 2013 to 2017 takes the continuum on this circle of the previous work of his grand-father Armando Franco-Bora (1910 - 2003) and his great-grand-father Giuseppe Franco-Barquier de Clausonne (1881 - 1972) on the role of one of the 7 secretaries in charge of mediation with the institutions. 
 </p>
 <p>
     ***
@@ -141,7 +202,7 @@ All three works are published under Creative Commons for educational and archiva
 
   <p>Armorial Heraldry in Blasonario SubAlpino of the Piemontese Kingdom of Sardegna: <a href="https://www.blasonariosubalpino.it/Pagina4.html">https://www.blasonariosubalpino.it/Pagina4.html</a></p>
 
-  <p>From the implantation as Condottieri of the House of Savoy based in the Countea de Nissa (County of Nice) - Franchi da Ceva ed La Briga ("Franco", in Nissart dialect), From the "Fondatore" il Condottiero (I) Onorato SanPier Giovanni Franchi da Ceva (Franco) (Ceva, 9 april 1523): </p>
+  <p>Genealogic researches by Armando Franco-Bora, degli Franchi da Ceva ed La Briga (1910 - 2003): The implantation as Condottieri of the House of Savoy based in the Countea de Nissa (County of Nice) - Franchi da Ceva ed La Briga ("Franco", in Nissart dialect), From the "Fondatore" il Condottiero (I) Onorato SanPier Giovanni Franchi da Ceva (Franco) (Ceva, 9 april 1523): </p>
 
   <ol>
     <li>3 May 1564 - Cathedrale Sainte-Réparate (Franco-Cottalorda de Breil-sur-Roya) = (II) Lorenzo Franchi da Ceva ed La Briga-Cottalorda (Franco) (La Briga, 31 december 1564 - 15 january 1620)</li>
