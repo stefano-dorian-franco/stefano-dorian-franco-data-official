@@ -191,10 +191,10 @@ Ethnographic documentary film directed by Stefano Dorian Franco
 
 <hr>
 
-  ## Audiobooks — Classic French Literature (17th–19th Century)
+  ## Classic French Literature & Philosophy (17th–19th Century) in Audiobooks
 
 ### This selection presents a curated corpus of foundational texts from 17th–19th century French literature, with a particular emphasis on authors who shaped the intellectual foundations of the Age of Enlightenment (Siècle des Lumières).
-These audiobooks were produced and released in full-text Creative Commons format with the objective of supporting inclusive access, notably for visually impaired audiences, students in French-language programs, and learners seeking immersion in classical literature through audio.
+These audiobooks were produced between 2017 & 2019, and released in full-text Creative Commons format with the objective of supporting inclusive access, notably for visually impaired audiences, students in French-language programs, and learners seeking immersion in classical literature through audio.
 
 All recordings are released in open educational access, available on Figshare with DOI indexing and preserved on Wikimedia Commons.
 
@@ -253,6 +253,62 @@ Full-text audiobook version by Stefano Dorian Franco
 🔗 https://figshare.com/articles/media/La_Peur_-_The_Fear_by_Guy_de_Maupassant_1884_Study_of_the_construction_of_psychoanalytic_narration_in_19th_century_literature_full-text_audiobook_version_by_Stefano_Dorian_Franco/29484155
 
 A pioneering study in psychological and proto-psychoanalytic narrative exploring fear, trauma, and perception in realist literature.
+
+<hr>
+
+## 🎵 Creation of an Electronic Opera — "Riding on the Sky Storm Mystery" (2020-2021)
+
+Conceptual dystopian electronic opera in 4 acts — by Stefano Dorian Franco
+
+Context & Artistic Intent
+This work represents a dystopian fable created during the COVID-19 lockdowns (2020 - 2021). Written and performed in English by Stefano Dorian Franco, the opera explores the search for postmodern freedom beyond the emerging electronic power structures shaped by Artificial Intelligence and its multiverse systems. It is a metaphysical and sociological allegory framed through the story of a heroine who attempts to escape a Kafkaesque digital order to rediscover intuition, autonomy, and transcendence.
+
+Central Character: The narrative follows “The Lady in Red”, an enigmatic hacker and symbol of independent free-thinking. She leaves behind encrypted clues—her last messages—inviting the listener to retrace her journey through four initiatory stages.
+
+Structure & Symbolism
+The opera is composed of four cinematic electronic tracks, forming a cycle of 4 initiatory keys—a passage toward a realm of new liberties situated beyond algorithmic control: Spectral fullmoon party jeopardy / Confidential codex memory reset / Midnight kiss lullaby mystery / Escaping the dance of dead
+
+Each part represents a level of transition beyond the binary logic of AI systems, illustrating the protagonist’s escape “through intuition” from an electronic intelligence that generates classification standards and multiplies forms of control.
+
+🎧 Playlist (EP format, 2021)
+
+Spectral fullmoon party jeopardy
+https://soundcloud.com/operaelectrofromparis/spectral-fullmoon-party-jeopardy
+Duration: 4’14 — Release: 21 April 2021
+ISWC: T-304.113.509-1
+
+Confidential codex memory reset
+https://soundcloud.com/operaelectrofromparis/confidential-codex-reset-memory
+Duration: 4’00 — Release: 12 March 2021
+ISWC: T-303.486.485-8
+
+Midnight kiss lullaby mystery
+https://soundcloud.com/operaelectrofromparis/midnight-kiss-lullaby-mystery
+Duration: 5’00 — Release: 28 May 2021
+ISWC: T-304.693.411-2
+
+Escaping the dance of dead
+https://soundcloud.com/operaelectrofromparis/eescaping-the-dance-of-dead
+Duration: 4’08 — Release: 11 May 2021
+ISWC: T-304.249.787-6
+
+🎶 Additional Musical Works 
+
+In 2024, a new creative cycle of thematic music was produced to accompany specific cultural and diplomatic topics. These tracks were conceived as symbolic sound pieces, designed to illustrate moments of international cultural resonance:
+
+“Bella Ciao – Parigi's Women Rights Edition”
+A reimagined and modernized interpretation of the historical antifascist anthem, specially performed for International Women’s Rights Day, highlighting themes of resilience, emancipation, and global solidarity.
+https://soundcloud.com/operaelectrofromparis/bella-ciao-paris-remix-2024-italiani-oriundi-di-parigi-tribute-solidarity-for-womens-rights-respect-mondine-to-happiness-by-stefano-dorian-franco
+
+“Paris pokes Tokyo manga fashion” - ISWC : T-322.817.884-1
+A musical composition blending traditional Japanese tonalities with contemporary electronic aesthetics, created to celebrate the Japanese New Year within a culturally hybrid visual universe inspired by manga storytelling.
+https://soundcloud.com/operaelectrofromparis/paris_pokes_tokyo_manga_fashion_2024_tribute_culture_connexion_feeling_paris_love_japan_by_stefano_dorian_franco
+
+“Paris pokes India Tamil road trip / Paris 2024 Olympic alternative Soundtrack Theme” - ISWC : T-326.413.619-4
+A dynamic track inspired by the spirit of the Paris 2024 Olympic Games, exploring the universal values of competition, unity, and artistic encounter through a cinematic electronic framework.
+https://soundcloud.com/operaelectrofromparis/paris-pokes-india-tamil-road-trip-2024-tribute_paris2024_olympicgames-by-indian-and-caribean-rythmics-by-stefano-dorian-franco
+
+These 2024 works complement the earlier Riding on the Sky Storm Mystery opera by expanding the artist’s approach to symbolic music as cultural mediation, connecting artistic creation with diplomatic themes and international cultural events.
 
 <hr>
 
