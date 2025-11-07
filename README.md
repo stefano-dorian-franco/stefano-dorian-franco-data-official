@@ -193,8 +193,8 @@ Ethnographic documentary film directed by Stefano Dorian Franco
 
   ## Audiobooks — Classic French Literature (17th–19th Century)
 
-### **This selection presents a curated corpus of foundational texts from 17th–19th century French literature, with a particular emphasis on authors who shaped the intellectual foundations of the Age of Enlightenment (Siècle des Lumières).
-These audiobooks were produced and released in full-text Creative Commons format with the objective of supporting inclusive access, notably for visually impaired audiences, students in French-language programs, and learners seeking immersion in classical literature through audio.**
+### This selection presents a curated corpus of foundational texts from 17th–19th century French literature, with a particular emphasis on authors who shaped the intellectual foundations of the Age of Enlightenment (Siècle des Lumières).
+These audiobooks were produced and released in full-text Creative Commons format with the objective of supporting inclusive access, notably for visually impaired audiences, students in French-language programs, and learners seeking immersion in classical literature through audio.
 
 All recordings are released in open educational access, available on Figshare with DOI indexing and preserved on Wikimedia Commons.
 
