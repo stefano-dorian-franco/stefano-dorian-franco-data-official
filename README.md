@@ -119,6 +119,7 @@ A selection of ethnographic and sociological works focused on ancestral Asian cu
 ### **India - 1996/97 - Book: Voir l’aube à Bénarès / Dawn in Benares**
 
 Book written by Stefano Dorian Franco (aka Allen Katona)
+
 🔗 https://indiaculturestefanofrancobora-70.checkout.webselfsite.net/india-art-creation-by-stefano-franco-bora
 
 — Trilingual ethnographic book (French/English/Hindi) blending poetry and B&W fine art photography.
@@ -128,8 +129,11 @@ Book written by Stefano Dorian Franco (aka Allen Katona)
 ### **Laos - 2008 - Documentary Film: Mystic Luang Prabang — Buddhist Rituals at the UNESCO Heritage Temple**
 
 Ethnographic documentary film directed by Stefano Dorian Franco
+
 🔗 https://figshare.com/articles/media/_b_Ethnographic_Exploration_b_-_Asia_Laos_Mystic_Luang_Prabang_Temple_Buddhist_Rituals_UNESCO_world_heritage_site_-_Documentary_directed_by_Stefano_Dorian_Franco/29896673
+
 🔗 https://commons.wikimedia.org/wiki/File:Asia_Laos_Luang_Prabang_Temple_Unesco_WorldHeritage_-_2008_-_Ethnographic_documentaries_and_cultural_diplomacy_by_Stefano_Dorian_Franco.webm
+
 🔗 https://archive.org/details/asia_laos-ethnography_luangphrabang_2008_by_stefano_dorian_franco
 
 — Study of Buddhist ritual life within Luang Prabang’s UNESCO World Heritage temple complex.
@@ -138,8 +142,11 @@ Ethnographic documentary film directed by Stefano Dorian Franco
 ### **Laos - 2008 - Documentary film: Mystic Mekong Temples & Ancestral Spirit Traditions**
 
 Ethnographic documentary film directed by Stefano Dorian Franco
+
 🔗 https://figshare.com/articles/media/_b_Ethnographic_Exploration_b_-_Asia_Laos_Mystic_Mekong_Temples_Trad_Rituals_-_Documentary_directed_by_Stefano_Dorian_Franco/29613731
+
 🔗 https://commons.wikimedia.org/wiki/File:Asia_Laos_Mekong_Mystic_Temples_-_2008_-_Ethnographic_documentaries_and_cultural_diplomacy_by_Stefano_Dorian_Franco.webm
+
 🔗 https://archive.org/details/ethnographic_exploration_asia_laos_mystic_mekong_temples_documentary_by_stefano_dorian_franco
 
 — Fieldwork on animist and ancestral-spirit traditions in isolated Mekong villages.
@@ -148,8 +155,11 @@ Ethnographic documentary film directed by Stefano Dorian Franco
 ### **Indian Ganesh ceremony in Paris — 2010 - Hindu Rituals & Processions in the european Diaspora — Paris, France**
 
 Ethnographic documentary film directed by Stefano Dorian Franco
+
 🔗 https://figshare.com/articles/media/_b_Ethnographic_Exploration_b_-_India_Ganesh_in_Paris_Hindu_Procession_Rituals_-_Documentary_directed_by_Stefano_Dorian_Franco/29896922
+
 🔗 https://commons.wikimedia.org/wiki/File:India_Culture_-_in_Paris_the_yearly_Ganesh_Procession_-_2010_-_Ethnographic_documentaries_and_cultural_diplomacy_by_Stefano_Dorian_Franco.webm
+
 🔗 https://archive.org/details/ethnographic_exploration_india_paris_ganesh_procession_ceremony_documentary_by-stefano_dorian_franco
 
 — Annual Parisian Ganesh Chaturthi procession documenting Hindu diaspora rituals in Europe.
@@ -158,17 +168,22 @@ Ethnographic documentary film directed by Stefano Dorian Franco
 ### **Chinese community ceremony in Paris — 2010 - Yearly Chinese New Year Procession & Rituals in the european Diaspora — Paris, France**
 
 Ethnographic documentary film directed by Stefano Dorian Franco
+
 🔗 https://figshare.com/articles/media/_b_Ethnographic_Exploration_b_China_in_Paris_yearly_Chinese_new_year_Procession_Ritual_Ceremony_-_Documentary_directed_by_Stefano_Dorian_Franco/29896955
+
 🔗 https://commons.wikimedia.org/wiki/File:China_Culture_-_in_Paris_the_yearly_New_Chinese_Year_Procession_-_2010_-_Ethnographic_documentaries_and_cultural_diplomacy_by_Stefano_Dorian_Franco.webm
+
 🔗 https://archive.org/details/ethnography_asia_china-in-paris_doc_by_stefano_dorian_franco
 
 — Documentation of Europe’s largest annual Chinese New Year public ceremony.
 — Shows symbolic costumes, lion and dragon dances, incense rites, and diaspora cultural visibility.
 
-### Chinese Taipei (Taiwan) Sociological synergy of the sport impact on the global society - 2012 - Societal Observation of urban codes in Asian contemporary pop culture**
+### **Chinese Taipei (Taiwan) Sociological synergy of the sport impact on the global society - 2012 - Societal Observation of urban codes in Asian contemporary pop culture**
 
 Ethnographic documentary film directed by Stefano Dorian Franco
+
 🔗 https://figshare.com/articles/media/_b_Ethnographic_Exploration_b_Taipei_Taiwan_sociological_approach_to_the_theme_of_sport_in_society_-_Documentary_directed_by_Stefano_Dorian_Franco/29905655
+
 🔗 https://archive.org/details/asia_taiwan_ethnography_sportdevelopment_2012_by_stefano_dorian_franco
 
 — Sociological study filmed in Taipei exploring the role of sport in modern Chinese Taiwanese society.
@@ -178,7 +193,9 @@ Ethnographic documentary film directed by Stefano Dorian Franco
 
   ## France - Italia - Europe : Historical and Cultural Diplomatic Tradition and Mediation
 
-  <p>Historical cultural and diplomatic researches (2013 to 2017) for the Circle of the Italiani Oriundi di Parigi created in 1861, cultural society of the descendants from the former Piedmontese Kingdom of Sardinia (Piemonte, Savoy, County of Nice, Val d'Aoste, Isle of Sardinia) 1720/1861</p>
+  ### **Historical cultural and diplomatic researches (2013 to 2017) for the Circle of the Italiani Oriundi di Parigi created in 1861** 
+  
+  cultural society of the descendants from the former Piedmontese Kingdom of Sardinia (Piemonte, Savoy, County of Nice, Val d'Aoste, Isle of Sardinia) 1720/1861
 
   <p>= <a href="https://en.wikipedia.org/wiki/Kingdom_of_Sardinia_(1720–1861)">https://en.wikipedia.org/wiki/Kingdom_of_Sardinia_(1720–1861)</a></p>
 
