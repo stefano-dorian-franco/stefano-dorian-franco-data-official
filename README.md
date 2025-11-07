@@ -312,7 +312,7 @@ These 2024 works complement the earlier Riding on the Sky Storm Mystery opera by
 
 <hr>
 
-## 🧭 Digital Art — AI-Piloted Extended Universes (2025)
+## 🧭 Creation of Digital Art — AI-Piloted Extended Universes (2025)
 
 In 2025, a new creative cycle was initiated in the field of AI-piloted digital art, built upon the concept of Extended Universes (EU). These universes are not simple image series: they are narrative worlds, written, structured and developed through scenario design, then visually realized using generative AI as a creative tool.
 
@@ -330,7 +330,10 @@ The series blends thriller, espionage codes, and psychological narrative, with o
 https://stefanodorianfranco.artstation.com/projects/wr9ooY
 
 2. Vivre survivre revivre (Live, survive, relive) dies cinerum
-RESUME
+A symbolic and introspective Extended Universe exploring the cycle of destruction and rebirth in contemporary societies.
+Through post-catastrophic tableaux and psychological atmospheres, the series narrates how a fragmented world attempts to reconstruct meaning after collapse.
+Visual signature: ashes, memory, resilience, metaphysical thresholds, and the tension between disappearance and renewal.
+A chronicle of humanity caught between loss and reconstruction — a meditation on what survives when everything else falls.
 https://stefanodorianfranco.artstation.com/projects/8BOE26
 
 3. Paris 1889 belle époque
@@ -346,11 +349,15 @@ It explores espionage, power, religion, and female agency in the early 18th cent
 https://stefanodorianfranco.artstation.com/projects/mA126e
 
 5. Tribute 14 juillet Bastille day remix time machine
-RESUME
+A temporal and cultural experiment revisiting the French 14 juillet through a “time-machine remix”.
+The universe merges historical symbols of the French Revolution with futuristic reinterpretations, creating a hybrid space where past, present, and speculative futures coexist. It re-imagines Bastille Day not as folklore but as an evolving collective myth, exploring civic rituals, national identity, and the metamorphosis of symbols across centuries. A dynamic visual homage where history loops, fractures, and reinvents itself.
 https://stefanodorianfranco.artstation.com/projects/nJqyvX
 
 6. Ganesh dances over Paris
-RESUME
+A visual universe built around the annual Fête de Ganesh in Paris, the largest Hindu procession in Europe.
+The series highlights the encounter between ancestral Indian spirituality and the Parisian urban landscape, transforming the city into a symbolic crossroads of cultures.
+Ganesh — deity of thresholds, obstacles, and new beginnings — becomes a metaphoric guide traveling through Paris’ architecture, rituals, and diasporic communities.
+A celebration of cross-cultural harmony, divine movement, and the living presence of world traditions within European cities.
 https://stefanodorianfranco.artstation.com/projects/nJXD29
 
 7. Primal tribal art holograms over Paris (Hologrammes d’Art Premier Tribal sur Paris)
