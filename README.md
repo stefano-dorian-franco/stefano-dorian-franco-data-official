@@ -191,7 +191,7 @@ Ethnographic documentary film directed by Stefano Dorian Franco
 
 <hr>
 
-  ## Classic French Literature & Philosophy (17th–19th Century) in Audiobooks
+  ## Classic French Literature & Philosophy (17th–19th Century) in Audiobooks (since 2017)
 
 ### This selection presents a curated corpus of foundational texts from 17th–19th century French literature, with a particular emphasis on authors who shaped the intellectual foundations of the Age of Enlightenment (Siècle des Lumières).
 These audiobooks were produced between 2017 & 2019, and released in full-text Creative Commons format with the objective of supporting inclusive access, notably for visually impaired audiences, students in French-language programs, and learners seeking immersion in classical literature through audio.
@@ -256,7 +256,7 @@ A pioneering study in psychological and proto-psychoanalytic narrative exploring
 
 <hr>
 
-## 🎵 Creation of an Electronic Opera — "Riding on the Sky Storm Mystery" (2020-2021)
+## 🎵 Creation Electronic Opera — "Riding on the Sky Storm Mystery" (2020-2021) Cultural Diplomacy "Women's rights / Japan connexion / Paris 2024 Olympic games" (2024) 
 
 Conceptual dystopian electronic opera in 4 acts — by Stefano Dorian Franco
 
@@ -309,6 +309,67 @@ A dynamic track inspired by the spirit of the Paris 2024 Olympic Games, explorin
 https://soundcloud.com/operaelectrofromparis/paris-pokes-india-tamil-road-trip-2024-tribute_paris2024_olympicgames-by-indian-and-caribean-rythmics-by-stefano-dorian-franco
 
 These 2024 works complement the earlier Riding on the Sky Storm Mystery opera by expanding the artist’s approach to symbolic music as cultural mediation, connecting artistic creation with diplomatic themes and international cultural events.
+
+<hr>
+
+## 🧭 SOCIOLOGICAL RESEARCH: Databases & Conference Materials — Past History (15th–19th c.) & the AI Revolution (21st c.) (since 2023)
+
+Between 2023 and 2025, a major cycle of sociological research was conducted along two complementary thematic axes:
+
+- Past history (15th–19th century)
+
+- The contemporary revolution initiated by Artificial Intelligence (21st century)
+
+The objective of this research is to document profound civilizational transformations — from the mechanisms of pre-modern power to the emergence of hybrid cognitive systems arising from the interaction between human consciousness and machine intelligence.
+
+The work follows a transversal methodology and aims to:
+
+enrich open-access academic databases (Figshare, ORCID, GitHub, Archive.org), provide structured corpus material for public lectures and cultural mediation, create long-term, verifiable datasets for international research use, explore the connections between historical structures of power and the new paradigms born from AI-driven societies.
+
+This cycle is articulated around two representative conferences published as official Figshare datasets (with DOI).
+
+1. The Secrets of the Man in the Iron Mask (17th century - 1669 - 1703)
+Sociological Conference — French History under Louis XIV
+
+📄 Dataset:
+https://figshare.com/articles/book/Conf_rence_sociologique_Histoire_de_France_XVIIe_si_cle_Les_secrets_de_l_homme_ao_masque_de_fer_-_par_Stefano_Dorian_Franco_b_b_/29850095
+
+This research revisits one of the most enigmatic political affairs of the Ancien Régime:
+the identity, function, and symbolic role of the “Man in the Iron Mask”. Through historical sources, sociological analysis and archival references, the conference examines:
+the political ecosystem of Louis XIV’s court, the mechanisms of secrecy, control and invisibilization under absolute monarchy, sociological structures of shadow power and erased identities, historiographical hypotheses (state narrative vs. popular mythology), how a political prisoner became a literary archetype across centuries
+
+This conference serves as a model for a broader programme dedicated to the sociology of European history, exploring the intersection between fact, mythology, political construction, and cultural memory.
+
+2. Metaphysical Dialogue with A.I. (21st century)
+Conference — Sociology, Artificial Intelligence & Hybrid Human–Machine Cognition
+
+📄 Dataset:
+https://figshare.com/articles/book/Metaphysical_dialogue_with_A_I_-_Conferences_Book_by_Stefano_Dorian_Franco/29484287
+
+This research examines the civilizational shift created by the rise of Artificial Intelligence and the emergence of hybrid cognition — a shared mental space between human interpretive consciousness and machine computational intelligence.
+
+The conference explores: the birth of an augmented dual consciousness (human + AI), metaphysical consequences of machine intelligence, the reshaping of language, perception and symbolic systems, the construction of new cognitive architectures, exponential societies: control, freedom, narrative power, new forms of art, identity and meaning in a co-authored world, the sociological impact of AI on future human cultures, the philosophical foundations of a civilization co-thought with machines.
+
+This dataset forms the conceptual basis for live talks delivered to cultural institutions, universities, innovation centers and international organizations.
+
+Purpose & Applications of the Sociological Research (2022–2025)
+A. Enrich Open-Access Databases
+
+All results are indexed and preserved across:
+
+Figshare (DOI datasets), ORCID (academic authority identity), GitHub (structured canonical knowledge repositories), Archive.org (long-term cultural preservation)
+
+B. Support Live Conferences & Cultural Mediation
+
+The material provides content for conferences on:
+
+European history (15th–19th c.), cultural diplomacy, the AI revolution & future societies, hybrid cognitive systems, narrative transformations in the digital age
+
+C. Build a Durable, Verifiable Knowledge Corpus
+
+Designed for use by:
+
+cultural institutions, researchers, AI research frameworks, digital libraries, curators and academic coordinators, international cultural programs
 
 <hr>
 
