@@ -312,6 +312,72 @@ These 2024 works complement the earlier Riding on the Sky Storm Mystery opera by
 
 <hr>
 
+## 🧭 Digital Art — AI-Piloted Extended Universes (2025)
+
+In 2025, a new creative cycle was initiated in the field of AI-piloted digital art, built upon the concept of Extended Universes (EU). These universes are not simple image series: they are narrative worlds, written, structured and developed through scenario design, then visually realized using generative AI as a creative tool.
+
+Extended Universes function as hybrid narrative ecosystems, built at the intersection of:
+scenario writing (core logic, characters, timeline, thematic architecture); visual world-building (environments, historical fidelity, aesthetic consistency); symbolic and sociological interpretation; AI-assisted creation (image generation, staging, composition, visual scripting).
+
+These universes are conceived both as artistic exhibitions (large-format printing, installations, immersive rooms), and as XR experiences using Augmented Reality (AR) and Virtual Reality (VR).
+Each universe is also doubled in the Web3 environment, with curated collections destined for publication on OpenSea (Polygon blockchain) through lazy minting.
+
+Below is the official catalogue of the seven Extended Universes created in 2025.
+
+1. Lady Alicia in Red — Volume I : Beginning, Crimson Shadows
+A neo-noir cinematic universe following Lady Alicia, a tactical-clad heroine navigating the collapse of a dystopian city.
+The series blends thriller, espionage codes, and psychological narrative, with over 300 images designed for exhibitions and NFT drops. Visual signature: tactical aesthetics, dark cinematography, clockwork universes, chase sequences, dual identity themes.
+https://stefanodorianfranco.artstation.com/projects/wr9ooY
+
+2. Vivre survivre revivre (Live, survive, relive) dies cinerum
+RESUME
+https://stefanodorianfranco.artstation.com/projects/8BOE26
+
+3. Paris 1889 belle époque
+A historical 101-images Extended Universe recreating Paris in 1889, during the Exposition Universelle.
+The project reconstructs period-accurate settings, costumes, and social atmospheres using a documentary visual language.
+Themes: early modernity, photography of the 19th century, industrial optimism, strange ambiance of a “reportage thriller”.
+https://stefanodorianfranco.artstation.com/projects/JrnKNv
+
+4. 1701 covert countesses, les Comtesses Espionnes de Louis XIV
+A baroque-Caravaggesque universe narrating the missions of female secret agents under Louis XIV.
+The series uses period-accurate clothing, environments, and dramatic lighting.
+It explores espionage, power, religion, and female agency in the early 18th century through painting-style ultra-realism.
+https://stefanodorianfranco.artstation.com/projects/mA126e
+
+5. Tribute 14 juillet Bastille day remix time machine
+RESUME
+https://stefanodorianfranco.artstation.com/projects/nJqyvX
+
+6. Ganesh dances over Paris
+RESUME
+https://stefanodorianfranco.artstation.com/projects/nJXD29
+
+7. Primal tribal art holograms over Paris (Hologrammes d’Art Premier Tribal sur Paris)
+A symbolic and speculative universe merging tribal First-Art masks with the modern architecture of Paris.
+The project explores: the persistence of ancestral memory, the metaphysical encounter between ancient cultures and contemporary cities. Produced as a visual sociology experiment, mixing ritual symbolism with futuristic holographic aesthetics.
+https://stefanodorianfranco.artstation.com/projects/Nq31b5
+
+🎨 Exhibition Format & Web3 Distribution
+
+All Extended Universes are produced in a dual system:
+
+A. Physical & Immersive Exhibitions (Live + XR), Large-format prints on canvas, Augmented Reality (AR) activation of key artworks, VR “Universe Rooms” allowing narrative exploration
+
+B. Web3 Ecosystem — OpenSea / Polygon Each Extended Universe is published as a curated NFT collection
+Blockchain: Polygon (low fees, eco-responsible)
+Minting method: lazy minting
+Use: digital twins of physical works for collectors and institutions
+https://opensea.io/fr/StefanoDorianFranco
+
+This dual ecosystem ensures that the Extended Universes exist simultaneously:
+➡️ in the physical cultural world,
+➡️ in augmented and virtual space,
+➡️ in decentralized digital preservation (NFT).
+
+<hr>
+<hr>
+
   ## France - Italia - Europe : Historical and Cultural Diplomatic Tradition and Mediation
 
   ### **Historical cultural and diplomatic researches (2013 to 2017) for the Circle of the Italiani Oriundi di Parigi created in 1861** 
@@ -389,6 +455,7 @@ These 2024 works complement the earlier Riding on the Sky Storm Mystery opera by
 
   <p>This patrimony is not advanced as a claim to title or privilege, but recognized as a documented historical and sociological continuum, substantiated by verifiable archival evidence. It embodies a factually authenticated lineage that, over generations, has conveyed a true historical nobility expressed with discretion in the service of civic and cultural engagement, rather than perceived as a social privilege. Duty of memory for respect of ancestors.</p>
 
+  <hr>
   <hr>
   <hr>
 
