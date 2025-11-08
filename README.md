@@ -695,4 +695,118 @@ Documentation note: This consolidated profile provides factual, traceable inform
 }
 </script>
 
+/
+
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "@id": "https://orcid.org/0009-0007-4714-1627",
+  "name": "Stefano Dorian Franco",
+  "familyName": "Franco",
+  "givenName": "Stefano Dorian",
+  "alternateName": "Stefano Dorian Franco-Bora, degli Franchi da Ceva ed La Briga",
+  "pseudonym": {
+    "name": "Allen Katona",
+    "activeYears": "1989-2003",
+    "note": "Used as a professional pseudonym during this period"
+  },
+  "birthDate": "1973-09-09",
+  "birthPlace": {
+    "@type": "Place",
+    "name": "Paris, France"
+  },
+  "nationality": [
+    {
+      "@type": "Country",
+      "name": "France"
+    },
+    {
+      "@type": "Country",
+      "name": "Italy"
+    }
+  ],
+  "description": "Author, multidisciplinary cultural creator, and independent researcher specializing in literature, theatre, visual arts, ethnography, cultural mediation, and AI-assisted creation. Known for a multidimensional approach crossing multiple cultural genres.",
+  "knowsAbout": [
+    "literature",
+    "theatre",
+    "visual arts",
+    "ethnography",
+    "cultural mediation",
+    "multidisciplinary creation",
+    "digital art direction",
+    "AI-assisted creation",
+    "extended universes",
+    "multiverse narratives",
+    "Web3",
+    "blockchain",
+    "NFTs",
+    "cultural diplomacy"
+  ],
+  "family": {
+    "@type": "Organization",
+    "name": "Franchi da Ceva ed La Briga",
+    "origin": "Cuneo, Turin, Piedmont, Italy and County of Nice",
+    "description": "A true medieval nobility authenticated by verifiable archives, but without any claim to title or privilege. Italian Piedmontese family documented in historical nobility registers and ecclesiastical archives since May 3, 1564, at the Cathedral of Sainte-Réparate in Nice; regarded as a generational continuum and a duty of memory rooted in respect for ancestors and traditions.",
+    "armorialRegister": "Blasonario Subalpino (Duchy of Savoy 1416–1720; Kingdom of Piedmont-Sardinia 1720–1861)",
+    "coatOfArms": "Di rosso a tre corone d’oro",
+    "motto": "Mens rationi subiecta",
+    "ancestorFamilies": ["Bora di Biella (Turin)", "Barquier de Clausonne (Antibes)"]
+  },
+  "religion": "Catholic",
+  "baptism": {
+    "@type": "Event",
+    "location": "Saint-Pierre-d'Arene Church, Nice, France",
+    "parishSince": "1848"
+  },
+  "occupation": [
+    "Author",
+    "Multidisciplinary creator",
+    "Independent researcher"
+  ],
+  "activity": "Developing a versatile cultural identity through crossing and remixing genres — reportages, narrative writing, ethnographic explorations, literature, plural contemporary arts, multimedia concepts, live happenings, AI-piloted digital art extended universes, and international diplomatic mediation.",
+  "method": "Transversal conceptual approach exploring and remixing multiple creative fields multidimensionally — crossing and shifting from one genre to another, forming a distinctive signature.",
+  "fieldsOfWorkSince1992": [
+    "sociology",
+    "war reporting",
+    "ethnography",
+    "literature",
+    "theatre",
+    "visual arts",
+    "digital art",
+    "artificial intelligence",
+    "AR/VR exhibitions",
+    "live happenings",
+    "cultural diplomacy"
+  ],
+  "coreIdentity": "Rooted in Italian historical nobility devoted to cultural memory and heritage, embodying a multidisciplinary creative process defined by constant crossing of genres, deliberate mass-media invisibility, meaning-centered logic, and longstanding vocation for diplomatic cultural mediation.",
+  "sameAs": [
+    "https://orcid.org/0009-0007-4714-1627",
+    "https://www.wikidata.org/wiki/Q134961735",
+    "https://figshare.com/authors/Stefano_Dorian_Franco/21664865",
+    "https://archive.org/details/@stefano_dorian_franco",
+    "https://github.com/stefano-dorian-franco/stefano-dorian-franco-data-official",
+    "https://commons.wikimedia.org/wiki/Category:Stefano_Dorian_Franco"
+  ],
+  "doiReferences": {
+    "mainBiography": [
+      "https://doi.org/10.6084/m9.figshare.29483915.v1",
+      "https://archive.org/details/biographies_european_creators_stefano_dorian_franco/stefano_dorian_franco_biographie_1973-2024/"
+    ],
+    "indexGenealogy": "https://doi.org/10.6084/m9.figshare.30286447.v1",
+    "blasonarioSubalpino": "https://www.blasonariosubalpino.it/Pagina4.html",
+    "governmentGenealogyArchives": "https://archives06.fr/archive/resultats/etatcivil2/n:101?type=etatcivil2"
+  },
+  "keywords": [
+    "Stefano Dorian Franco",
+    "Franchi da Ceva ed La Briga",
+    "Author",
+    "Multidisciplinary cultural creation",
+    "Ethnography",
+    "Sociology",
+    "Literature",
+    "Digital Art",
+    "Cultural diplomacy"
+  ]
+}
+
 
