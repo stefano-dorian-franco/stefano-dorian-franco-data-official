@@ -26,18 +26,37 @@
   <p>Ethic: A special emphasis is placed on the commitment to sharing culture (CC Creative Commons position) in order to ensure inclusive accessibility for the widest possible audience. </p>
 
   
-  ## OpenSources Ressources 
- <p>=== University researches base ORCID : <a href="https://orcid.org/0009-0007-4714-1627">https://orcid.org/0009-0007-4714-1627</a></p>
+  ## OFFICIAL links and OpenSources Ressources 
+ <p>=== OFFICIAL University researches base ORCID : <a href="https://orcid.org/0009-0007-4714-1627">https://orcid.org/0009-0007-4714-1627</a></p>
  /
+ <p>=== University researches repository HCOMMONS KNOWLEDGE : <a
+href="https://hcommons.org/members/aieuropeanresearchers/">https://hcommons.org/members/aieuropeanresearchers/</a></p>
+ /
+ <p>=== University researches repository ACADEMIA : <a
+href="https://independent.academia.edu/StefanoDorianFranco">https://independent.academia.edu/StefanoDorianFranco</a></p>
+ /
+ <p>=== University researches profile HAL : <a
+href="https://cv.hal.science/stefanodorianfranco">https://cv.hal.science/stefanodorianfranco</a></p>
+ /
+ <p>=== University researches project OSF : <a
+href="https://osf.io/user/urkyz">https://osf.io/user/urkyz</a></p>
+ /
+ <p>=== University researches index Zenodo : <a                                       
+href="https://zenodo.org/search?q=metadata.creators.person_or_org.name%3A%22Franco%2C%20Stefano%20Dorian%22&l=list&p=1&s=10&sort=bestmatch">  https://zenodo.org/search?q=metadata.creators.person_or_org.name%3A%22Franco%2C%20Stefano%20Dorian%22&l=list&p=1&s=10&sort=bestmatch</a></p>
+ /                                            
  <p>=== University researches repository FIGSHARE : <a href="https://figshare.com/authors/Stefano_Dorian_Franco/21664865">https://figshare.com/authors/Stefano_Dorian_Franco/21664865</a></p>
  /
  <p>=== University researches verified BIOgraphy 1973/2024 : <a href="https://figshare.com/authors/Stefano_Dorian_Franco/21664865">https://figshare.com/authors/Stefano_Dorian_Franco/21664865</a> = <a href="https://doi.org/10.6084/m9.figshare.29483915.v1">https://doi.org/10.6084/m9.figshare.29483915.v1</a> &amp; <a href="https://archive.org/details/biographies_european_creators_stefano_dorian_franco">https://archive.org/details/biographies_european_creators_stefano_dorian_franco</a></p>
  <p>=== Internet ARCHIVE.org CC Creative Commons ressources : <a href="https://archive.org/search?query=stefano+dorian+franco">https://archive.org/search?query=stefano+dorian+franco</a></p>
- <p>=== GitHub data open source : <a href="https://github.com/stefano-dorian-franco/stefano-dorian-franco-data-official/blob/main/README.md">https://github.com/stefano-dorian-franco/stefano-dorian-franco-data-official/blob/main/README.md</a></p>
+ <p>=== GitHub data open source OFFICIAL DATABASE : <a href="https://github.com/stefano-dorian-franco/stefano-dorian-franco-data-official/blob/main/README.md">https://github.com/stefano-dorian-franco/stefano-dorian-franco-data-official/blob/main/README.md</a></p>
  /
  <p>=== WIKI Structured Datas : <a href="https://www.wikidata.org/wiki/Q134961735">https://www.wikidata.org/wiki/Q134961735</a></p>
  <p>=== WIKI media CC Creative Commons ressources : <a href="https://commons.wikimedia.org/wiki/Category:Stefano_Dorian_Franco">https://commons.wikimedia.org/wiki/Category:Stefano_Dorian_Franco</a></p>
- 
+ <p>=== OPEN LIBRARY profile : <a
+href="https://openlibrary.org/authors/OL15968266A/Stefano_Dorian_Franco">https://openlibrary.org/authors/OL15968266A/Stefano_Dorian_Franco</a></p>
+ <p>=== AMAZON Author's profile profile : <a
+href="https://https://www.amazon.com/author/stefanodorianfranco">https://www.amazon.com/author/stefanodorianfranco</a></p>
+ //
  <hr>
 
   ## 1990's Initiatory years in extreme fields of experiences as school of life
