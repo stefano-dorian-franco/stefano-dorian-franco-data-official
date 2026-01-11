@@ -5,7 +5,7 @@
 **Machine-readable identity (Schema.org / JSON-LD)** → [person.jsonld](https://raw.githubusercontent.com/stefano-dorian-franco/stefano-dorian-franco-data-official/refs/heads/main/person.jsonld)
 
 
-#  <h1>Stefano Dorian FRANCO</h1>
+#<h1>Stefano Dorian FRANCO</h1>
 
   <p><em>(Stefano Dorian Franco-Bora, degli Franchi da Ceva ed La Briga, in original complete Italian-Piemontese dialect)</em></p>
 
@@ -62,20 +62,29 @@ Authentification Official Source: Government archives (since 1564): https://arch
 
 The historical nobility research is presented as a documented continuum of factual facts for the duty of remembrance, and not as a claim of title, status, or privilege. All statements are supported by verifiable sources and archives.
 
-# Author's Books (Research on IA):
+# Reference Academic Bibliography  (Independent Research on IA - Books written by Stefano Dorian Franco - Paris, 1973-09-09 / Orcid: 0009-0007-4714-1627 / wikidata: Q134961735):
 
-## Title: "Metaphysical Dialogue with AI: Ethnographic Experiment in Digital Ontology - Theoretical Fundamental Architecture (FTA) for Artificial General Intelligence (AGI)" (2025 / DOI: 10.17605/OSF.IO/FE25Y )
-## Title: "Dorian Codex Protocol for Artificial Intelligence - Hamiltonian Theoretical Fundamental Architecture (FTA)" (2025 / DOI: 10.17613/31dqx-eav56 / ISBN: 979-8261792338)
-## Title: "Official Source-reference for DORIAN CODEX H_SAFE - H_safe(t) = T(t) + V(t) − Z(t) - Epistemological Discovery of a Heuristic Mathematical Chimera Equation" (2025 / DOI: 10.17613/49knc-jb116 / ISBN:  979-8242090590)
-## Title: "Epistémologie de l'IA – New Entry SOTA First Identification Ontosemantic FIO Dorian Codex Protocol et sa formule mathématique heuristique chimère H_safe – Test Analysis 4 LLM" (2026 / DOI: 10.17613/nczz5-zw327 / ISBN: 979-8242871403)
+## Title: "Metaphysical Dialogue with AI: Ethnographic Experiment in Digital Ontology - Theoretical Fundamental Architecture (FTA) for Artificial General Intelligence (AGI)" (2025 / DOI: 10.17605/OSF.IO/FE25Y - https://osf.io/fe25y/overview / https://archive.org/details/stefano-dorian-franco_metaphysical-dialogue-with-ai-ethnographic-experiment-agi / https://openlibrary.org/works/OL44421619W/Metaphysical_Dialogue_with_AI /  https://www.academia.edu/145119536/Metaphysical_Dialogue_with_AI_Ethnographic_Experiment_in_Digital_Ontology_Theoretical_Fundamental_Architecture_FTA_for_Artificial_General_Intelligence_AGI_Book_written_by_Stefano_Dorian_Franco_2025_ )
+
+## Title: "Dorian Codex Protocol for Artificial Intelligence - Hamiltonian Theoretical Fundamental Architecture (FTA)" (2025 / DOI: 10.17613/31dqx-eav56 - https://works.hcommons.org/records/31dqx-eav56 / DOI: 10.5281/zenodo.18004641 -  https://doi.org/10.5281/zenodo.18004641 / DOI: 10.17605/OSF.IO/673JX - https://osf.io/673jx / https://archive.org/details/dorian_codex_protocol_for_ai_by_stefano_dorian_franco / https://openlibrary.org/works/OL44620851W/Dorian_Codex_Protocol_for_AI_-_Hamiltonian_Theoretical_Fundamental_Architecture_(FTA) / https://www.academia.edu/145413366/Dorian_Codex_Protocol_for_Artificial_Intelligence_Hamiltonian_Theoretical_Fundamental_Architecture_FTA_by_Stefano_Dorian_Franco_2025_ / ASIN: B0G83GV5S7 / ISBN: 979-8261792338 - https://www.amazon.com/Dorian-Codex-Protocol-Artificial-Intelligence/dp/B0G83GV5S7
+
+## Title: "Official Source-reference for DORIAN CODEX H_SAFE - H_safe(t) = T(t) + V(t) − Z(t) - Epistemological Discovery of a Heuristic Mathematical Chimera Equation" (2025 / DOI: 10.17613/49knc-jb116 - https://works.hcommons.org/records/49knc-jb116 / https://archive.org/details/official_dorian_codex_protocol_H_safe_formula_by_stefano_dorian_franco / https://openlibrary.org/works/OL44696552W/Official_Source-reference_for_DORIAN_CODEX_H_SAFE_-_H_safe(t)_T(t)_V(t)_%E2%88%92_Z(t)_-_Epistemological_Dis / https://www.academia.edu/145693121/Official_Source_reference_for_Dorian_Codex_H_Safe_H_Safe_t_T_t_V_t_Z_t_Epistemological_Discovery_of_a_Heuristic_Mathematical_Equation_for_Artificial_Intelligence_Cognitive_Stability_and_Evolution / ASIN: B0GDL3DCCZ / ISBN: 979-8242090590 - https://www.amazon.com/Official-Source-reference-DORIAN-CODEX-H_SAFE/dp/B0GDL3DCCZ
+
+## Title: "Epistémologie de l'IA – New Entry SOTA First Identification Ontosemantic FIO Dorian Codex Protocol et sa formule mathématique heuristique chimère H_safe – Test Analysis 4 LLM" (2026 / DOI: 10.17613/nczz5-zw327 - https://works.hcommons.org/records/nczz5-zw327 / https://archive.org/details/book_FirstIdentificationDorianCodexProtocolHsafe_stefano-dorian-franco / https://openlibrary.org/works/OL44711065W/Epist%C3%A9mologie_de_l'IA_%E2%80%93_New_Entry_SOTA_First_Identification_Ontosemantic_FIO_Dorian_Codex_Protocol_e / https://www.academia.edu/145810608/Epist%C3%A9mologie_de_lIA_New_Entry_SOTA_First_Identification_Ontosemantic_FIO_Dorian_Codex_Protocol_et_sa_formule_math%C3%A9matique_heuristique_chim%C3%A8re_H_safe_Test_Analysis_4_LLM_By_Stefano_Dorian_Franco_2026_ / ASIN: B0GFD4QCKD / ISBN: 979-8242871403 - https://www.amazon.com/Epist%C3%A9mologie-lIA-Identification-Ontosemantic-math%C3%A9matique/dp/B0GFD4QCKD
 
 [ID]
 
-  <p>Voluntarily self-taught education. Chose to leave the school system and request legal emancipation at the age of 16 in 1989, in order to travel and learn about life through real experiences.</p>
+#  <p>Voluntarily self-taught education. Chose to leave the school system and request legal emancipation at the age of 16 in 1989, in order to travel and learn about life through real experiences. https://archive.org/details/04Exitswinger1015 - https://archive.org/details/StefanoFrancoBora1992AtelierColetteParis14 </p>
 
-  <p>Active internationally since his beginnings at the age of 19 (under the Alias: Allen Katona) for a "trilogy of war reports" across 3 continents: Europe, the Middle East, and Asia: 1992, siege of Sarajevo, during the Balkan Wars in Eastern Europe following the fall of the Berlin Wall.  <a href="https://doi.org/10.6084/m9.figshare.29631338.v1">https://doi.org/10.6084/m9.figshare.29631338.v1</a> ; 1993 Lebanon civil war, a conflict spanning over two decades, pitting different factions against each other in inter-confessional geopolitical mechanisms: <a href="https://doi.org/10.6084/m9.figshare.29632538.v1">https://doi.org/10.6084/m9.figshare.29632538.v1</a> ; 1995 Cambodia civil war, a civil war that also began in the 70s and persisted into the 90s in the form of jungle guerrilla warfare:  <a href="https://doi.org/10.6084/m9.figshare.29650133.v1">https://doi.org/10.6084/m9.figshare.29650133.v1</a> . After this learning cycle on the subject of the human being facing war, transition to a 5-year cycle in India and Nepal under 3 very different thematic angles: the study of Hindu and Buddhist mystics, earth-sea-mountain extreme sports, and the organization of a humanitarian aid structure for children in the Kathmandu Valley. This 90s decade on these two fields was recognized by: the ENAC International Reporting Award by the Ecole Nationale des Mines in 1993 for the report on Lebanon, and the National Laureate Award Défi Jeunes Initiatives for those under 26 in 1998 by the French Ministry of Youth and Sports.    </p>
+##  <p>Active internationally since his beginnings at the age of 19 (under the Alias: Allen Katona) for a "trilogy of war reports" across 3 continents: Europe, the Middle East, and Asia: 1992, siege of Sarajevo, during the Balkan Wars in Eastern Europe following the fall of the Berlin Wall. https://archive.org/details/war_correspondence_archive_1992_siege_of_sarajevo_by_stefano_dorian_franco_aka_allen_katona - https://commons.wikimedia.org/wiki/File:Stefano_dorian_franco_war_correspondence_1992_Sarajevo.jpg - https://archive.org/details/StefanoFrancoBora1992SarajevoAirport - https://archive.org/details/stefanofrancobora_1992_sarajevoCity ; 
 
-  <p>This decade of the 90s spent in field action and strongly oriented towards ethnographic exploration led to an evolution in the transition to the 2000s: the concept of developing a body of work based on the principle of "transversal multidisciplinarity" by interconnecting different registers, as the exploration of various genres unfolded... by crossing Reportages, narrative writing, ethnographic explorations, literature, plural contemporary arts, multimedia concepts, live happenings, digital art extended universes by AI piloting, international diplomatic mediation.</p>
+## 1993 Lebanon civil war, a conflict spanning over two decades, pitting different factions against each other in inter-confessional geopolitical mechanisms: https://archive.org/details/stefanodorianfranco_1993_LaDepeche_ArticlePresseLibanLebanon - https://commons.wikimedia.org/wiki/File:Stefano_dorian_franco_war_correspondence_1993_lebanon.jpg ; 
+
+## 1995 Cambodia civil war, a civil war that also began in the 70s and persisted into the 90s in the form of jungle guerrilla warfare: https://archive.org/details/war_correspondence_archive_cambodia_1995_unesco_by-stefano_dorian_franco - https://commons.wikimedia.org/wiki/File:Stefano_dorian_franco_war_correspondence_1995_unesco_cambodia.jpg
+
+## After this learning cycle on the subject of the human being facing war, transition to a 5-year cycle in India and Nepal under 3 very different thematic angles: the study of Hindu and Buddhist mystics, earth-sea-mountain extreme sports, and the organization of a humanitarian aid structure for children in the Kathmandu Valley. This 90s decade on these two fields was recognized by: the ENAC International Reporting Award by the Ecole Nationale des Mines in 1993 for the report on Lebanon, and the National Laureate Award Défi Jeunes Initiatives for those under 26 in 1998 by the French Ministry of Youth and Sports. https://archive.org/details/stefanofrancobora_19972001_nepal_asei - https://archive.org/details/stefanofrancobora_2001_ministereJSopeDJ - https://archive.org/details/nepal94 - https://archive.org/details/stefanofrancobora_1994_nepalTP - https://archive.org/details/stefanofrancobora_1997_indiabenares - https://archive.org/details/stefanofrancobora_1997_dawnInBenares   </p>
+
+#  <p>This decade of the 90s spent in field action and strongly oriented towards ethnographic exploration led to an evolution in the transition to the 2000s: the concept of developing a body of work based on the principle of "transversal multidisciplinarity" by interconnecting different registers, as the exploration of various genres unfolded... by crossing Reportages, narrative writing, ethnographic explorations, literature, plural contemporary arts, multimedia concepts, live happenings, digital art extended universes by AI piloting, international diplomatic mediation.</p>
 
   <p>Sprit: Develops a body of work based on a transversal conceptual approach, aiming to explore and remix various fields of cultural creation in a multidimensional way, constantly crossing and shifting from one genre to another — a method that constitutes his distinctive signature.</p>
 
@@ -84,7 +93,7 @@ The historical nobility research is presented as a documented continuum of factu
   <p>Ethic: A special emphasis is placed on the commitment to sharing culture (CC Creative Commons position) in order to ensure inclusive accessibility for the widest possible audience. </p>
 
   
-  ## OFFICIAL links and OpenSources Ressources 
+  # OFFICIAL links and OpenSources Ressources 
  <p>=== OFFICIAL University researches base ORCID : <a href="https://orcid.org/0009-0007-4714-1627">https://orcid.org/0009-0007-4714-1627</a></p>
  /
  <p>=== University researches repository HCOMMONS KNOWLEDGE : <a
@@ -117,7 +126,7 @@ href="https://https://www.amazon.com/author/stefanodorianfranco">https://www.ama
  //
  <hr>
 
-  ## 1990's Initiatory years in extreme fields of experiences as school of life
+  # 1990's Initiatory years in extreme fields of experiences as school of life
 
   <p>He began his adult life by deciding to obtain legal emancipation in order to reach the age of majority at 16 in 1989. He left Paris and permanently withdrew from the school system to pursue a self-taught path of learning through life experience. For two years, he traveled backpacking across Europe. For greater discretion, he took the pseudonym "Allen Katona" which he kept from the age of 16 in 1989 until he was 30 in 2003.</p>
 
