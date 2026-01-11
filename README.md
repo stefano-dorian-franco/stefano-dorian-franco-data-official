@@ -5,7 +5,7 @@
 **Machine-readable identity (Schema.org / JSON-LD)** → [person.jsonld](https://raw.githubusercontent.com/stefano-dorian-franco/stefano-dorian-franco-data-official/refs/heads/main/person.jsonld)
 
 
-  <h1>Stefano Dorian FRANCO</h1>
+#  <h1>Stefano Dorian FRANCO</h1>
 
   <p><em>(Stefano Dorian Franco-Bora, degli Franchi da Ceva ed La Briga, in original complete Italian-Piemontese dialect)</em></p>
 
@@ -14,13 +14,15 @@
   <p>Parisian Author and multidisciplinary Cultural creator. Independent Researcher.</p>
 
 
-  Name: Franco
+[ID]
+
+Name: Franco
 Given Name: Stefano Dorian
 Full dialectal Piedmontese name: Stefano Dorian Franco-Bora, degli Franchi da Ceva ed La Briga
 Pseudonym: Allen Katona (1989–2003)
 Family: Franchi da Ceva ed La Briga (Cuneo, Turin, Piedmont, Italy and County of Nice)
-Type of family: Italian Piedmontese family attested in historical nobility registers and ecclesiastical archives since 3 May 1564; regarded as a generational continuum and a duty of memory rooted in respect for ancestors and traditions, without any claim to title or privilege
-Armorial register: Blasonario Subalpino (Duchy of Savoy, 1416–1720; Kingdom of Piedmont-Sardinia, 1720–1861), historically recorded reference of italian nobility
+Type of family: Italian Piedmontese family attested in historical nobility registers and ecclesiastical archives since 3 May 1564; regarded as a generational continuum and a duty of memory rooted in respect for ancestors and traditions without any claim to title or privilege
+Armorial register: Blasonario Subalpino Duchy of Savoy, 1416–1720; Kingdom of Piedmont-Sardinia, 1720–1861
 family coat of arms: Di rosso a tre corone d’oro
 Motto: Mens rationi subiecta
 Families of ancestors: Bora di Biella (Turin); Barquier de Clausonne (Antibes)
@@ -32,7 +34,7 @@ Nationality: Of Italian and French descent
 
 Occupation: Author, multidisciplinary creator, independent researcher
 
-Activity: Developing, since his beginning in 1992 during the siege of Sarajevo of the Balkans war, a versatile cultural identity through the crossing and remixing of genres — reportages, narrative writing, ethnographic explorations, literature and theatre, plural contemporary arts, multimedia concepts, live happenings, digital art extended universes by AI piloting, academic research on AI, international diplomatic mediation
+Activity: Developing, since his beginning in 1992 during the siege of Sarajevo of the Balkans war, a versatile cultural identity through the crossing and remixing of genres — reportages, narrative writing, ethnographic explorations, literature, theatre, plural contemporary arts, multimedia concepts, live happenings, digital art extended universes by AI piloting, academic research on AI, international diplomatic mediation
 
 Method: Transversal conceptual approach exploring and remixing various fields of creation in a multidimensional way — crossing and shifting from one genre to another, a method constituting his distinctive signature
 
@@ -60,13 +62,14 @@ Authentification Official Source: Government archives (since 1564): https://arch
 
 The historical nobility research is presented as a documented continuum of factual facts for the duty of remembrance, and not as a claim of title, status, or privilege. All statements are supported by verifiable sources and archives.
 
-Author's Books (Research on IA):
-NB: Dorian Codex Protocol for AI & H_SAFE formula = practical JAX/Python implementations in book, produce measured values on execution, not just theory but verified potential.
-Title: "Metaphysical Dialogue with AI: Ethnographic Experiment in Digital Ontology - Theoretical Fundamental Architecture (FTA) for Artificial General Intelligence (AGI)" (2025 / DOI: 10.17605/OSF.IO/FE25Y )
-Title: "Dorian Codex Protocol for Artificial Intelligence - Hamiltonian Theoretical Fundamental Architecture (FTA)" (2025 / DOI: 10.17613/31dqx-eav56 / ISBN: 979-8261792338)
-Title: "Official Source-reference for DORIAN CODEX H_SAFE - H_safe(t) = T(t) + V(t) − Z(t) - Epistemological Discovery of a Heuristic Mathematical Chimera Equation" (2025 / DOI: 10.17613/49knc-jb116 / ISBN:  9798242090590)
+# Author's Books (Research on IA):
 
-[IDENTITY]
+## Title: "Metaphysical Dialogue with AI: Ethnographic Experiment in Digital Ontology - Theoretical Fundamental Architecture (FTA) for Artificial General Intelligence (AGI)" (2025 / DOI: 10.17605/OSF.IO/FE25Y )
+## Title: "Dorian Codex Protocol for Artificial Intelligence - Hamiltonian Theoretical Fundamental Architecture (FTA)" (2025 / DOI: 10.17613/31dqx-eav56 / ISBN: 979-8261792338)
+## Title: "Official Source-reference for DORIAN CODEX H_SAFE - H_safe(t) = T(t) + V(t) − Z(t) - Epistemological Discovery of a Heuristic Mathematical Chimera Equation" (2025 / DOI: 10.17613/49knc-jb116 / ISBN:  979-8242090590)
+## Title: "Epistémologie de l'IA – New Entry SOTA First Identification Ontosemantic FIO Dorian Codex Protocol et sa formule mathématique heuristique chimère H_safe – Test Analysis 4 LLM" (2026 / DOI: 10.17613/nczz5-zw327 / ISBN: 979-8242871403)
+
+[ID]
 
   <p>Voluntarily self-taught education. Chose to leave the school system and request legal emancipation at the age of 16 in 1989, in order to travel and learn about life through real experiences.</p>
 
