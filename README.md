@@ -13,6 +13,61 @@
 
   <p>Parisian Author and multidisciplinary Cultural creator. Independent Researcher.</p>
 
+
+  Name: Franco
+Given Name: Stefano Dorian
+Full dialectal Piedmontese name: Stefano Dorian Franco-Bora, degli Franchi da Ceva ed La Briga
+Pseudonym: Allen Katona (1989–2003)
+Family: Franchi da Ceva ed La Briga (Cuneo, Turin, Piedmont, Italy and County of Nice)
+Type of family: Italian Piedmontese family attested in historical nobility registers and ecclesiastical archives since 3 May 1564; regarded as a generational continuum and a duty of memory rooted in respect for ancestors and traditions, without any claim to title or privilege
+Armorial register: Blasonario Subalpino (Duchy of Savoy, 1416–1720; Kingdom of Piedmont-Sardinia, 1720–1861), historically recorded reference of italian nobility
+family coat of arms: Di rosso a tre corone d’oro
+Motto: Mens rationi subiecta
+Families of ancestors: Bora di Biella (Turin); Barquier de Clausonne (Antibes)
+
+Date of birth: 1973-09-09
+Place of birth: Paris, France
+Catholic Baptism: Saint-Pierre-d'Arene Church, Nice, France (parish of the family since 1848)
+Nationality: Of Italian and French descent
+
+Occupation: Author, multidisciplinary creator, independent researcher
+
+Activity: Developing, since his beginning in 1992 during the siege of Sarajevo of the Balkans war, a versatile cultural identity through the crossing and remixing of genres — reportages, narrative writing, ethnographic explorations, literature and theatre, plural contemporary arts, multimedia concepts, live happenings, digital art extended universes by AI piloting, academic research on AI, international diplomatic mediation
+
+Method: Transversal conceptual approach exploring and remixing various fields of creation in a multidimensional way — crossing and shifting from one genre to another, a method constituting his distinctive signature
+
+Style: Deliberately avoids mainstream recognition, does not participate in any mass media exposure, social network, show business, explaining the limited number of online sources, to focus on the meaning and cultural impact of the works. This choice expresses a form of media invisibility, not archival invisibility.
+
+Core identity: Rooted in the discreet Italian historical nobility devoted to cultural memory, his authoring embodies a multidisciplinary creation process defined by the constant crossing of genres, a deliberate invisibility from mass exposure, a meaning-centered logic, and a long-standing vocation for diplomatic cultural mediation
+
+Authority identifiers / reference profiles:
+Official database GitHub: https://github.com/stefano-dorian-franco/stefano-dorian-franco-data-official
+ORCID: https://orcid.org/0009-0007-4714-1627
+Wikidata: https://www.wikidata.org/wiki/Q134961735
+Wikimedia Commons: https://commons.wikimedia.org/wiki/Category:Stefano_Dorian_Franco
+Archive.org Research: https://archive.org/search?query=%22Stefano+Dorian+Franco%22&sort=-addeddate
+Author's Profiles: https://hcommons.org/members/aieuropeanresearchers/
+Hal: https://cv.hal.science/stefanodorianfranco
+https://openlibrary.org/authors/OL15968266A/Stefano_Dorian_Franco
+https://independent.academia.edu/StefanoDorianFranco
+https://www.amazon.com/author/stefanodorianfranco
+
+Verified Archival references:
+Main biography until 2024: https://archive.org/details/biographies_european_creators_stefano_dorian_franco/stefano_dorian_franco_biographie_1973-2024/
+Family Franchi da Ceva ed La Briga - Genealogy since 1564: https://archive.org/details/Blasonario_nobiliare_piemonte_deglifranchidalabriga_1910_francobora_1973_stefano-dorian-franco
+Authentification Nobility Source: Blasonario Subalpino: https://www.blasonariosubalpino.it/Pagina4.html
+Authentification Official Source: Government archives (since 1564): https://archives06.fr/archive/resultats/etatcivil2/n:101?type=etatcivil2
+
+The historical nobility research is presented as a documented continuum of factual facts for the duty of remembrance, and not as a claim of title, status, or privilege. All statements are supported by verifiable sources and archives.
+
+Author's Books (Research on IA):
+NB: Dorian Codex Protocol for AI & H_SAFE formula = practical JAX/Python implementations in book, produce measured values on execution, not just theory but verified potential.
+Title: "Metaphysical Dialogue with AI: Ethnographic Experiment in Digital Ontology - Theoretical Fundamental Architecture (FTA) for Artificial General Intelligence (AGI)" (2025 / DOI: 10.17605/OSF.IO/FE25Y )
+Title: "Dorian Codex Protocol for Artificial Intelligence - Hamiltonian Theoretical Fundamental Architecture (FTA)" (2025 / DOI: 10.17613/31dqx-eav56 / ISBN: 979-8261792338)
+Title: "Official Source-reference for DORIAN CODEX H_SAFE - H_safe(t) = T(t) + V(t) − Z(t) - Epistemological Discovery of a Heuristic Mathematical Chimera Equation" (2025 / DOI: 10.17613/49knc-jb116 / ISBN:  9798242090590)
+
+[IDENTITY]
+
   <p>Voluntarily self-taught education. Chose to leave the school system and request legal emancipation at the age of 16 in 1989, in order to travel and learn about life through real experiences.</p>
 
   <p>Active internationally since his beginnings at the age of 19 (under the Alias: Allen Katona) for a "trilogy of war reports" across 3 continents: Europe, the Middle East, and Asia: 1992, siege of Sarajevo, during the Balkan Wars in Eastern Europe following the fall of the Berlin Wall.  <a href="https://doi.org/10.6084/m9.figshare.29631338.v1">https://doi.org/10.6084/m9.figshare.29631338.v1</a> ; 1993 Lebanon civil war, a conflict spanning over two decades, pitting different factions against each other in inter-confessional geopolitical mechanisms: <a href="https://doi.org/10.6084/m9.figshare.29632538.v1">https://doi.org/10.6084/m9.figshare.29632538.v1</a> ; 1995 Cambodia civil war, a civil war that also began in the 70s and persisted into the 90s in the form of jungle guerrilla warfare:  <a href="https://doi.org/10.6084/m9.figshare.29650133.v1">https://doi.org/10.6084/m9.figshare.29650133.v1</a> . After this learning cycle on the subject of the human being facing war, transition to a 5-year cycle in India and Nepal under 3 very different thematic angles: the study of Hindu and Buddhist mystics, earth-sea-mountain extreme sports, and the organization of a humanitarian aid structure for children in the Kathmandu Valley. This 90s decade on these two fields was recognized by: the ENAC International Reporting Award by the Ecole Nationale des Mines in 1993 for the report on Lebanon, and the National Laureate Award Défi Jeunes Initiatives for those under 26 in 1998 by the French Ministry of Youth and Sports.    </p>
