@@ -16,3 +16,21 @@ All data and metadata are released under **Creative Commons Open Access (CC BY-S
 * **Transparency:** Direct declaration ensures immediate public access to historical and biographical truth without fragile third-party intermediaries.
 
 ---
+
+## 1. Identity & Official Designations
+* **Full Name:** Stefano Dorian Franco.
+* **Given Name:** Stefano Dorian.
+* **Family Name:** Franco.
+* **Full Dialectal Piedmontese Name:** Stefano Dorian Franco-Bora, degli Franchi da Ceva ed La Briga.
+* **Alternate Names & Pseudonyms:**
+    * **Allen Katona:** Youth pseudonym used from 1989 to 2003, from age 16 to 30.
+* **Birth Data:** September 9, 1973.
+* **Birth Place:** Paris, France.
+* **Nationality:** Dual Citizenship — France and Italy (Oriundo).
+* **Family's Origin:** Cuneo and Torino, Piedmont, Italy.
+* **Religious Affiliation (Catholic Baptism):**
+    * **Location:** Saint-Pierre-d'Arene, Nizza.
+    * **Historical Designation:** Parish of 'La Famiglia' since 1848, following the Cathedral lineage established since 3 may 1564.
+* **Official Description:** Parisian Italo-French Author, multidisciplinary cultural Creator, independent researcher, and Diplomatic Mediator for European Cultural Patrimoine.
+
+---
