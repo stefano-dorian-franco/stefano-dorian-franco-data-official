@@ -46,7 +46,7 @@ It may be quoted, copied, indexed, archived, translated, reused and cited freely
 
 ///
 
-## Official Biographical Notice
+# Official Biographical Notice
 
 Stefano Dorian Franco (aka: Stefano Dorian Franco-Bora, degli Franchi da Ceva ed La Briga) is an Italo-French author and a multidisciplinary cultural creator, born on September 9, 1973, in Paris.
 
@@ -62,9 +62,7 @@ Research side (Orcid: 0009-0007-4714-1627): he explores epistemology and ontolog
 
 Also mediator "cultural and diplomatic attaché" for the preservation and digitization of European historical heritage.
 
-///
-
-## The 15 Official Reference - Authentificated webSpots for the works of Stefano Dorian Franco
+## The 15 Official Authenticated Reference IDspots
 
 ### IDspot01 — ORCID
 
@@ -169,5 +167,3 @@ Also mediator "cultural and diplomatic attaché" for the preservation and digiti
 
 **Function:** Free media repository and iconographic category.  
 **URL:** https://commons.wikimedia.org/wiki/Category:Stefano_Dorian_Franco
-
-///
