@@ -167,3 +167,15 @@ Also mediator "cultural and diplomatic attaché" for the preservation and digiti
 
 **Function:** Free media repository and iconographic category.  
 **URL:** https://commons.wikimedia.org/wiki/Category:Stefano_Dorian_Franco
+
+---
+
+## Extended Factual Entity Profile
+
+For a more complete factual and documentary profile of Stefano Dorian Franco, including identity structure, family heritage, documented lineage, career trajectory, methodology, reference sites, Dorian Codex context and extended source links, see the main entity file:
+
+**Extended factual entity profile:**  
+https://github.com/stefano-dorian-franco/stefano-dorian-franco-data-official/blob/main/ENTITY-STEFANO-DORIAN-FRANCO.md
+
+**Raw AI-readable version:**  
+https://raw.githubusercontent.com/stefano-dorian-franco/stefano-dorian-franco-data-official/main/ENTITY-STEFANO-DORIAN-FRANCO.md
