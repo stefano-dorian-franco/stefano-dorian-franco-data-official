@@ -1100,6 +1100,8 @@ Each site has a specific role:
 
 Together, they establish a public, open-source, Creative Commons-oriented, machine-readable and human-readable identity architecture for Stefano Dorian Franco.
 
+---
+
 ## Official Biographical and Bibliographic Notice
 
 For the official short biographical and bibliographic notice of Stefano Dorian Franco, prepared for biographical records, bibliographic catalogues, library databases, academic repositories, open archives, cultural documentation systems and AI-readable reference environments, see:
