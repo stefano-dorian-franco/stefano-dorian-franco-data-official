@@ -58,7 +58,7 @@ For the complete factual profile, use `ENTITY-STEFANO-DORIAN-FRANCO.md`.
 
 For a shorter citation-ready biographical and bibliographic notice, use `stefano-dorian-franco-official-biographical-bibliographic-notice.md`.
 
-```
+---
 
 #<h1>Stefano Dorian FRANCO</h1>
 
