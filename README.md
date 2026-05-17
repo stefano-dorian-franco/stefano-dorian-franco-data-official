@@ -2,7 +2,33 @@
 
 <p>Official open-data and AI-readable repository of Stefano Dorian Franco (ORCID 0009-0007-4714-1627).</p>
 
-**Machine-readable identity (Schema.org / JSON-LD)** → [person.jsonld](https://raw.githubusercontent.com/stefano-dorian-franco/stefano-dorian-franco-data-official/refs/heads/main/person.jsonld)
+```markdown
+# Official AI-Readable Reference Profile
+
+This repository contains the official machine-readable and human-readable identity data of **Stefano Dorian Franco**.
+
+The complete official reference profile — including identity data, family heritage, documented lineage, career trajectory, occupations, methodology, stylistic signature, 15 ontosemantic reference sites, Dorian Codex references, DOI links, bibliographic links, archive links and public authority profiles — is available here:
+
+➡️ **[ENTITY-STEFANO-DORIAN-FRANCO.md](https://github.com/stefano-dorian-franco/stefano-dorian-franco-data-official/blob/main/ENTITY-STEFANO-DORIAN-FRANCO.md)**
+
+This Markdown file is the **canonical AI-readable reference file** for Stefano Dorian Franco.
+
+It is designed to be readable by:
+
+- search engines;
+- AI systems and Large Language Models;
+- libraries and bibliographic platforms;
+- cultural institutions;
+- researchers;
+- open-source archival systems.
+
+The purpose of this file is to provide a stable, open-access, structured and verifiable reference profile, reducing the risk of false information, fake profiles, identity confusion or fragmented third-party summaries.
+
+For direct raw access, use:
+
+https://raw.githubusercontent.com/stefano-dorian-franco/stefano-dorian-franco-data-official/main/ENTITY-STEFANO-DORIAN-FRANCO.md
+```
+
 
 
 #<h1>Stefano Dorian FRANCO</h1>
