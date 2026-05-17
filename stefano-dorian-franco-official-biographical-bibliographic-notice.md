@@ -44,7 +44,7 @@ It may be quoted, copied, indexed, archived, translated, reused and cited freely
 **Source:** Official Authenticated Biographical Notice — Stefano Dorian Franco, updated May 2026.  
 **ORCID:** 0009-0007-4714-1627.
 
-///
+---
 
 # Official Biographical Notice
 
