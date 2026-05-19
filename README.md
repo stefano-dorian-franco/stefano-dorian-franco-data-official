@@ -18,6 +18,17 @@ Complete and Authenticated Biographical Notice for Bibliographic Records, Univer
 
 It is the complete authenticated biographical notice of Stefano Dorian Franco, prepared for bibliographic records, university catalogues, library archives, open repositories, academic indexing systems and AI-readable environments.
 
+Internal GitHub repository copies:
+
+PDF version:
+https://github.com/stefano-dorian-franco/stefano-dorian-franco-data-official/blob/main/stefano-dorian-franco_official-biography-updated-may2026.pdf
+
+Full-text TXT version — CLEAN UTF-8, AI-readable:
+https://github.com/stefano-dorian-franco/stefano-dorian-franco-data-official/blob/main/stefano-dorian-franco_official-biography-updated-may2026_CLEAN-UTF8.txt
+
+The PDF version preserves the official formatted document.
+The TXT version provides a direct full-text, UTF-8, machine-readable version for search engines, crawlers, academic indexing systems and artificial intelligence extraction.
+
 The same canonical biography has been deposited on three reference platforms:
 
 Archive.org — AI-readable archive, PDF and full-text access:
