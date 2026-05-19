@@ -155,7 +155,7 @@ The historical nobility research is presented as a documented continuum of factu
 
 /
 
-Reference Academic Bibliography  (Independent Research on IA - Books written by Stefano Dorian Franco - Paris, 1973-09-09 / Orcid: 0009-0007-4714-1627 / wikidata: Q134961735):
+Reference Academic Bibliography  (Independent Research on IA - Books written by Stefano Dorian Franco - Paris, 1973-09-09 / Orcid: 0009-0007-4714-1627):
 
 Title: "Metaphysical Dialogue with AI: Ethnographic Experiment in Digital Ontology - Theoretical Fundamental Architecture (FTA) for Artificial General Intelligence (AGI)" (2025 / DOI: 10.17605/OSF.IO/FE25Y - https://osf.io/fe25y/overview / https://archive.org/details/stefano-dorian-franco_metaphysical-dialogue-with-ai-ethnographic-experiment-agi / https://openlibrary.org/works/OL44421619W/Metaphysical_Dialogue_with_AI /  https://www.academia.edu/145119536/Metaphysical_Dialogue_with_AI_Ethnographic_Experiment_in_Digital_Ontology_Theoretical_Fundamental_Architecture_FTA_for_Artificial_General_Intelligence_AGI_Book_written_by_Stefano_Dorian_Franco_2025_ )
 
