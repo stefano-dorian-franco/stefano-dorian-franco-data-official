@@ -6,6 +6,13 @@ It is designed to provide a stable public path for search engines, AI systems, b
 
 ---
 
+# Official Factual Identity JSON Profile
+
+- GitHub file: [stefano-dorian-franco_official-identity-factual-profile.json](./stefano-dorian-franco_official-identity-factual-profile.json)
+- Raw JSON: https://raw.githubusercontent.com/stefano-dorian-franco/stefano-dorian-franco-data-official/refs/heads/main/stefano-dorian-franco_official-identity-factual-profile.json
+
+---
+
 # Last updated (may 2026) complete "official biography updated"
 
 Canonical Complete Biography — Updated May 2026
