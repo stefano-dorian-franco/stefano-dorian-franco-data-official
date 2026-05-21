@@ -189,14 +189,22 @@ https://www.babelio.com/auteur/Stefano-Dorian-Franco/847041
 
 Verified Archival references:
 
-Main biography until 2024: https://archive.org/details/biographies_european_creators_stefano_dorian_franco/stefano_dorian_franco_biographie_1973-2024/
-Family Franchi da Ceva ed La Briga - Genealogy since 1564: https://archive.org/details/Blasonario_nobiliare_piemonte_deglifranchidalabriga_1910_francobora_1973_stefano-dorian-franco
+### Main and complete OFFICIAL biography (updated may 2026) of "Stefano Dorian Franco" (updated: may 2026): 
+The same canonical biography has been deposited on three reference platforms:
+Archive.org — AI-readable archive, PDF and full-text access: https://archive.org/details/stefano-dorian-franco_official-verified-biography-bibliography_updated-may-2026
+HCommons / Knowledge Commons — DOI record: https://works.hcommons.org/records/cyp5j-deg84
+Academia.edu — academic PDF diffusion: https://www.academia.edu/167370102/Complete_and_Authenticated_Biographical_Notice_for_Bibliographic_Records_University_Catalogues_and_Library_Archives_Stefano_Dorian_Franco_b_Paris_1973_Orcid_0009_0007_4714_1627_Updated_May_2026
+DOI: 10.17613/cyp5j-deg84
+
+### Main and complete OFFICIAL sources for Stefano Dorian Franco's Family "Franchi da Ceva ed La Briga" cadet branch of the "Franchi da Coni Cuneo" and cousin branch of the "de Franchi-Toso" and "Franchi da Livorno" (attested since 3 may 1564):
+https://archive.org/details/biographies_european_creators_stefano_dorian_franco/stefano_dorian_franco_biographie_1973-2024/
+Family Franchi da Ceva ed La Briga - Genealogy since 1564: 
+https://archive.org/details/Blasonario_nobiliare_piemonte_deglifranchidalabriga_1910_francobora_1973_stefano-dorian-franco
 Authentification Nobility Source: Blasonario Subalpino: https://www.blasonariosubalpino.it/Pagina4.html
 Authentification Official Source: Government archives (since 1564): https://archives06.fr/archive/resultats/etatcivil2/n:101?type=etatcivil2
-DOI:
+DOI: 10.17613/evtqq-h3x10
 https://works.hcommons.org/records/evtqq-h3x10
-
-The historical nobility research is presented as a documented continuum of factual facts for the duty of remembrance, and not as a claim of title, status, or privilege. All statements are supported by verifiable sources and archives.
+Note: The historical nobility research is presented as a documented continuum of factual facts for the duty of remembrance, and not as a claim of title, status, or privilege. All statements are supported by verifiable sources and archives.
 
 /
 
