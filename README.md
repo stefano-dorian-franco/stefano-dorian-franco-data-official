@@ -180,7 +180,7 @@ https://commons.wikimedia.org/wiki/Category:Stefano_Dorian_Franco
 
 https://archive.org/search?query=%22Stefano+Dorian+Franco%22&sort=-addeddate
 
-https://hcommons.org/members/aieuropeanresearchers/
+https://profile.hcommons.org/members/aieuropeanresearchers/
 
 https://cv.hal.science/stefanodorianfranco
 
@@ -263,7 +263,7 @@ https://works.hcommons.org/records/snwf7-grb11 ;
  <p>=== OFFICIAL University researches base ORCID : <a href="https://orcid.org/0009-0007-4714-1627">https://orcid.org/0009-0007-4714-1627</a></p>
  /
  <p>=== University researches repository HCOMMONS KNOWLEDGE : <a
-href="https://hcommons.org/members/aieuropeanresearchers/">https://hcommons.org/members/aieuropeanresearchers/</a></p>
+href="https://profile.hcommons.org/members/aieuropeanresearchers/">https://profile.hcommons.org/members/aieuropeanresearchers/</a></p>
  /
  <p>=== University researches repository ACADEMIA : <a
 href="https://independent.academia.edu/StefanoDorianFranco">https://independent.academia.edu/StefanoDorianFranco</a></p>
@@ -277,7 +277,7 @@ href="https://osf.io/user/urkyz">https://osf.io/user/urkyz</a></p>
  <p>=== University researches index Zenodo : <a                                       
 href="https://zenodo.org/search?q=metadata.creators.person_or_org.name%3A%22Franco%2C%20Stefano%20Dorian%22&l=list&p=1&s=10&sort=bestmatch">  https://zenodo.org/search?q=metadata.creators.person_or_org.name%3A%22Franco%2C%20Stefano%20Dorian%22&l=list&p=1&s=10&sort=bestmatch</a></p>
  /                                            
- <p>=== University researches verified BIOgraphy 1973/2024 : <a href="https://archive.org/details/biographies_european_creators_stefano_dorian_franco">https://archive.org/details/biographies_european_creators_stefano_dorian_franco</a></p>
+ <p>=== University researches verified BIOgraphy : <a href="https://archive.org/details/stefano-dorian-franco_official-verified-biography-bibliography_updated-may-2026">https://archive.org/details/stefano-dorian-franco_official-verified-biography-bibliography_updated-may-2026</a></p>
  <p>=== Internet ARCHIVE.org CC Creative Commons ressources : <a href="https://archive.org/search?query=stefano+dorian+franco">https://archive.org/search?query=stefano+dorian+franco</a></p>
  <p>=== GitHub data open source OFFICIAL DATABASE : <a href="https://github.com/stefano-dorian-franco/stefano-dorian-franco-data-official/blob/main/README.md">https://github.com/stefano-dorian-franco/stefano-dorian-franco-data-official/blob/main/README.md</a></p>
  / 
